@@ -1,0 +1,1201 @@
+loan_id,loan_product,branch,complexity,application_received_time,loan_disbursed_time,loan_status,loan_amount_inr,total_active_work_hours,total_rework_count,total_elapsed_hours
+LN00001,Personal Loan,Hubballi,Medium,13-04-2025 08:00,46:20.9,Disbursed,820044,2.82,0,71.77
+LN00002,Home Loan,Bengaluru Central,Medium,15-12-2025 10:00,32:51.7,Withdrawn,1606182,2.87,0,102.55
+LN00003,Vehicle Loan,Bengaluru Central,Medium,28-09-2025 08:00,55:43.4,Disbursed,758362,3.11,0,80.93
+LN00004,Personal Loan,Mysuru,Medium,17-04-2025 14:00,01:11.9,Disbursed,2252575,3.42,0,67.02
+LN00005,Vehicle Loan,Bengaluru Central,High,13-03-2025 16:00,31:46.5,Withdrawn,590659,6.15,2,162.53
+LN00006,Personal Loan,Bengaluru Central,Low,08-07-2025 12:00,08:31.6,Withdrawn,195271,3.29,3,80.14
+LN00007,Personal Loan,Hubballi,Medium,21-01-2025 14:00,27:25.2,Rejected,508298,3.48,2,117.46
+LN00008,Personal Loan,Hubballi,Medium,13-04-2025 16:00,30:41.9,Disbursed,1352549,3.28,1,85.51
+LN00009,Vehicle Loan,Electronic City,High,02-05-2025 11:00,24:45.1,Disbursed,1528236,7.47,3,216.41
+LN00010,Vehicle Loan,Electronic City,Medium,03-08-2025 11:00,59:16.1,Disbursed,226076,3.71,1,96.99
+LN00011,Personal Loan,Hubballi,Low,27-11-2025 13:00,25:43.0,Disbursed,1267060,3.81,2,105.43
+LN00012,Business Loan,Bengaluru Central,Medium,29-03-2025 10:00,13:08.9,Rejected,672605,3.33,0,213.22
+LN00013,Home Loan,Bengaluru Central,Medium,10-04-2025 14:00,02:48.2,Disbursed,1763136,4.26,1,61.05
+LN00014,Home Loan,Mysuru,Low,26-12-2025 12:00,52:56.9,Disbursed,512785,2.59,0,92.88
+LN00015,Business Loan,Bengaluru Central,High,01-06-2025 16:00,45:51.4,Disbursed,454772,5.97,1,301.76
+LN00016,Personal Loan,Mysuru,Medium,11-05-2025 14:00,57:47.2,Disbursed,1956039,3.47,1,105.96
+LN00017,Home Loan,Electronic City,Low,30-05-2025 13:00,30:20.5,Disbursed,279104,2.46,0,45.51
+LN00018,Personal Loan,Mysuru,Medium,05-11-2025 11:00,06:46.8,Disbursed,2318115,3.33,1,141.11
+LN00019,Home Loan,Hubballi,Low,15-09-2025 10:00,54:30.4,Rejected,1663325,3.47,1,68.91
+LN00020,Personal Loan,Hubballi,Low,10-12-2025 09:00,21:46.9,Disbursed,1815524,2.86,1,60.36
+LN00021,Personal Loan,Electronic City,Low,21-10-2025 08:00,45:16.5,Disbursed,2013571,2.51,0,39.75
+LN00022,Personal Loan,Whitefield,Medium,11-07-2025 16:00,37:20.3,Disbursed,679085,3.23,0,54.62
+LN00023,Vehicle Loan,Whitefield,Low,04-10-2025 08:00,59:56.4,Rejected,1286497,2.11,0,32
+LN00024,Vehicle Loan,Hubballi,High,10-06-2025 15:00,18:29.5,Rejected,566409,7.1,4,176.31
+LN00025,Personal Loan,Bengaluru Central,Low,10-11-2025 16:00,32:30.1,Disbursed,2322158,2.73,0,83.54
+LN00026,Vehicle Loan,Electronic City,Low,22-01-2025 11:00,50:19.1,Disbursed,210381,2.49,1,90.84
+LN00027,Vehicle Loan,Whitefield,High,10-09-2025 15:00,38:33.3,Withdrawn,1913236,5.94,2,133.64
+LN00028,Vehicle Loan,Whitefield,Low,24-08-2025 08:00,26:28.8,Disbursed,915139,3.16,1,61.44
+LN00029,Home Loan,Hubballi,Medium,11-12-2025 11:00,24:29.7,Rejected,329215,3.93,2,160.41
+LN00030,Personal Loan,Mysuru,Medium,18-02-2025 13:00,53:46.1,Disbursed,2181018,2.77,0,94.9
+LN00031,Vehicle Loan,Bengaluru Central,Medium,28-02-2025 10:00,46:59.0,Disbursed,565693,4.05,1,49.78
+LN00032,Business Loan,Whitefield,Medium,19-06-2025 11:00,32:12.7,Disbursed,1850072,4.15,2,149.54
+LN00033,Vehicle Loan,Bengaluru Central,Low,07-07-2025 08:00,54:04.8,Disbursed,315972,2.2,1,28.9
+LN00034,Home Loan,Whitefield,Low,28-09-2025 16:00,45:13.6,Withdrawn,1526402,3.27,1,89.75
+LN00035,Home Loan,Whitefield,Medium,09-07-2025 10:00,36:03.7,Disbursed,1862375,3.87,1,186.6
+LN00036,Personal Loan,Mysuru,Low,24-06-2025 11:00,04:07.9,Disbursed,1386092,2.3,0,109.07
+LN00037,Personal Loan,Mysuru,Low,20-02-2025 13:00,46:17.4,Disbursed,2071770,2.28,0,58.77
+LN00038,Home Loan,Hubballi,Medium,30-12-2025 11:00,25:17.4,Disbursed,1411871,4.07,1,115.42
+LN00039,Vehicle Loan,Bengaluru Central,Low,24-02-2025 15:00,48:07.9,Rejected,2295846,2.61,1,59.8
+LN00040,Business Loan,Electronic City,Low,01-09-2025 14:00,12:52.6,Disbursed,1009131,3.34,1,47.21
+LN00041,Personal Loan,Bengaluru Central,Low,16-11-2025 16:00,54:35.5,Disbursed,595096,4.04,1,72.91
+LN00042,Business Loan,Bengaluru Central,Medium,11-05-2025 14:00,31:18.3,Withdrawn,2413162,4.25,1,100.52
+LN00043,Home Loan,Whitefield,Medium,03-11-2025 16:00,54:31.9,Rejected,962743,3.35,0,111.91
+LN00044,Business Loan,Mysuru,Medium,15-05-2025 08:00,28:39.1,Withdrawn,388365,3.21,0,121.48
+LN00045,Home Loan,Electronic City,Medium,21-01-2025 09:00,03:30.9,Disbursed,1504089,3.61,0,77.06
+LN00046,Business Loan,Electronic City,High,25-11-2025 08:00,43:40.7,Disbursed,2240482,6.96,2,124.73
+LN00047,Home Loan,Mysuru,Medium,16-06-2025 11:00,40:46.4,Disbursed,2285438,4.35,2,150.68
+LN00048,Vehicle Loan,Hubballi,Medium,01-10-2025 15:00,54:33.4,Withdrawn,758672,3.39,1,103.91
+LN00049,Personal Loan,Whitefield,Low,30-03-2025 11:00,39:40.6,Disbursed,634010,3.33,1,80.66
+LN00050,Personal Loan,Mysuru,Medium,12-11-2025 08:00,19:20.3,Disbursed,2223513,3.78,1,63.32
+LN00051,Vehicle Loan,Whitefield,Medium,14-01-2025 14:00,55:36.7,Disbursed,1804867,4.83,2,124.93
+LN00052,Vehicle Loan,Bengaluru Central,Low,30-08-2025 11:00,34:33.0,Disbursed,1273451,3.67,1,45.58
+LN00053,Business Loan,Hubballi,Medium,22-09-2025 15:00,02:59.0,Disbursed,1524620,3.43,1,151.05
+LN00054,Personal Loan,Mysuru,High,12-12-2025 14:00,15:52.9,Disbursed,2006874,5.83,4,142.26
+LN00055,Personal Loan,Electronic City,Low,22-02-2025 15:00,06:03.1,Rejected,476488,2.73,0,62.1
+LN00056,Business Loan,Bengaluru Central,Medium,06-12-2025 10:00,59:26.3,Rejected,2320463,3.88,0,56.99
+LN00057,Home Loan,Mysuru,Medium,02-04-2025 09:00,38:17.7,Disbursed,2196674,3.61,0,128.64
+LN00058,Vehicle Loan,Whitefield,High,21-09-2025 08:00,56:16.2,Disbursed,2057338,8.42,4,158.94
+LN00059,Business Loan,Electronic City,Medium,04-02-2025 10:00,26:48.8,Disbursed,593898,4.46,2,191.45
+LN00060,Vehicle Loan,Whitefield,Low,25-07-2025 12:00,20:57.2,Disbursed,1124093,2.74,1,77.35
+LN00061,Vehicle Loan,Hubballi,High,22-03-2025 15:00,36:27.3,Disbursed,1601899,6.24,1,79.61
+LN00062,Personal Loan,Hubballi,Low,19-02-2025 11:00,13:39.0,Disbursed,628641,2.94,0,146.23
+LN00063,Home Loan,Bengaluru Central,Medium,26-12-2025 13:00,50:30.7,Rejected,170062,3.39,0,265.84
+LN00064,Personal Loan,Mysuru,Medium,02-01-2025 16:00,02:27.9,Disbursed,2441219,3.87,1,63.04
+LN00065,Home Loan,Hubballi,Low,23-02-2025 11:00,40:55.6,Disbursed,321365,2.3,0,65.68
+LN00066,Vehicle Loan,Mysuru,Medium,16-04-2025 14:00,34:16.2,Rejected,2099186,5.53,3,138.57
+LN00067,Personal Loan,Hubballi,Low,17-09-2025 09:00,42:24.5,Disbursed,966004,2.73,0,34.71
+LN00068,Personal Loan,Hubballi,Medium,06-11-2025 12:00,22:10.1,Rejected,1688197,4.15,2,63.37
+LN00069,Vehicle Loan,Hubballi,Medium,10-07-2025 12:00,36:32.7,Rejected,194771,3.6,0,56.61
+LN00070,Home Loan,Mysuru,Medium,06-08-2025 09:00,45:14.9,Withdrawn,2191008,3.31,0,151.75
+LN00071,Vehicle Loan,Hubballi,High,13-02-2025 15:00,08:35.9,Disbursed,1411425,7.28,3,81.14
+LN00072,Business Loan,Electronic City,Medium,11-06-2025 13:00,39:13.7,Disbursed,2169844,2.82,0,102.65
+LN00073,Vehicle Loan,Mysuru,Medium,21-07-2025 16:00,13:56.9,Disbursed,297667,4.19,2,69.23
+LN00074,Home Loan,Whitefield,Low,27-09-2025 08:00,45:25.3,Disbursed,1733032,2.42,0,96.76
+LN00075,Business Loan,Bengaluru Central,Medium,17-12-2025 16:00,59:11.2,Disbursed,2101789,4.09,1,127.99
+LN00076,Vehicle Loan,Bengaluru Central,Medium,31-10-2025 14:00,42:38.4,Disbursed,1596064,4.61,2,68.71
+LN00077,Home Loan,Mysuru,Medium,28-09-2025 10:00,15:54.7,Disbursed,396030,3.78,1,63.27
+LN00078,Personal Loan,Electronic City,High,03-08-2025 11:00,56:43.2,Disbursed,2041161,5.8,0,122.95
+LN00079,Personal Loan,Bengaluru Central,High,09-09-2025 13:00,13:47.0,Disbursed,1434704,6.31,4,120.23
+LN00080,Personal Loan,Whitefield,High,09-07-2025 13:00,44:41.6,Disbursed,137593,5.59,2,94.74
+LN00081,Personal Loan,Electronic City,Low,23-10-2025 14:00,43:05.3,Disbursed,304371,1.82,0,83.72
+LN00082,Personal Loan,Electronic City,Medium,01-08-2025 12:00,31:54.5,Withdrawn,1028582,3.52,1,68.53
+LN00083,Personal Loan,Electronic City,Low,27-07-2025 14:00,05:25.7,Disbursed,2110583,2.6,0,35.09
+LN00084,Vehicle Loan,Hubballi,Low,25-08-2025 11:00,10:52.4,Disbursed,850607,2.49,1,44.18
+LN00085,Vehicle Loan,Electronic City,Low,04-12-2025 16:00,05:38.1,Disbursed,2395156,2.88,1,60.09
+LN00086,Vehicle Loan,Bengaluru Central,Low,22-02-2025 11:00,39:59.3,Disbursed,200653,2.48,0,78.67
+LN00087,Personal Loan,Bengaluru Central,Medium,07-10-2025 10:00,24:46.1,Disbursed,1411212,3.44,1,107.41
+LN00088,Personal Loan,Bengaluru Central,Low,05-08-2025 11:00,52:42.5,Disbursed,742353,2.91,1,51.88
+LN00089,Business Loan,Whitefield,Medium,09-09-2025 08:00,52:33.5,Withdrawn,1819617,2.76,0,79.88
+LN00090,Business Loan,Whitefield,Medium,07-07-2025 08:00,18:03.5,Disbursed,1211140,3.91,2,128.3
+LN00091,Personal Loan,Electronic City,High,10-02-2025 15:00,53:39.8,Disbursed,1732978,5.14,1,127.89
+LN00092,Vehicle Loan,Hubballi,Low,06-06-2025 16:00,12:26.1,Disbursed,54136,2.61,0,46.21
+LN00093,Personal Loan,Bengaluru Central,Low,15-01-2025 12:00,20:02.8,Disbursed,884123,3,0,62.33
+LN00094,Vehicle Loan,Electronic City,Low,28-10-2025 14:00,58:22.2,Disbursed,1015398,2.56,0,143.97
+LN00095,Personal Loan,Mysuru,Medium,06-03-2025 11:00,49:18.3,Withdrawn,2176861,3.73,0,104.82
+LN00096,Vehicle Loan,Mysuru,Low,11-12-2025 09:00,19:17.6,Disbursed,735611,2.65,0,50.32
+LN00097,Personal Loan,Whitefield,High,23-11-2025 13:00,07:43.5,Disbursed,1999834,6.34,2,114.13
+LN00098,Business Loan,Whitefield,High,09-01-2025 15:00,22:35.9,Disbursed,2458163,8.26,4,148.38
+LN00099,Vehicle Loan,Bengaluru Central,Low,10-12-2025 12:00,09:35.4,Disbursed,1738124,3.15,1,107.16
+LN00100,Business Loan,Electronic City,High,09-05-2025 16:00,59:39.1,Disbursed,1376059,5.98,1,153.99
+LN00101,Home Loan,Electronic City,Medium,16-05-2025 13:00,40:55.5,Disbursed,837600,3.43,2,147.68
+LN00102,Vehicle Loan,Bengaluru Central,Low,04-03-2025 11:00,23:34.0,Rejected,597026,2.35,0,96.39
+LN00103,Vehicle Loan,Whitefield,High,19-05-2025 11:00,17:05.7,Rejected,2212591,6.97,3,189.28
+LN00104,Home Loan,Whitefield,Medium,22-03-2025 08:00,47:47.1,Disbursed,541638,3.59,1,67.8
+LN00105,Personal Loan,Whitefield,Medium,12-06-2025 10:00,50:53.5,Disbursed,1697982,3.46,1,67.85
+LN00106,Personal Loan,Electronic City,Low,16-10-2025 15:00,59:44.9,Disbursed,2304407,1.99,0,43
+LN00107,Home Loan,Mysuru,Low,18-09-2025 09:00,50:30.5,Withdrawn,194375,3.04,1,72.84
+LN00108,Personal Loan,Mysuru,Medium,19-08-2025 13:00,37:35.4,Disbursed,905695,3.49,0,53.63
+LN00109,Home Loan,Mysuru,Medium,10-02-2025 15:00,45:26.0,Disbursed,2236203,3.82,2,116.76
+LN00110,Home Loan,Hubballi,Medium,28-01-2025 14:00,24:04.9,Rejected,873265,4.09,2,126.4
+LN00111,Home Loan,Whitefield,Low,15-05-2025 12:00,15:24.1,Disbursed,1435049,2.36,0,72.26
+LN00112,Home Loan,Mysuru,Medium,20-07-2025 16:00,00:01.1,Disbursed,1330101,3.99,2,96
+LN00113,Personal Loan,Whitefield,High,24-11-2025 11:00,43:12.4,Disbursed,348818,6.78,3,117.72
+LN00114,Business Loan,Whitefield,Medium,25-09-2025 15:00,45:46.2,Disbursed,482859,3,0,81.76
+LN00115,Personal Loan,Bengaluru Central,Low,02-02-2025 13:00,53:56.3,Disbursed,912839,3.22,1,94.9
+LN00116,Business Loan,Bengaluru Central,Medium,17-02-2025 09:00,33:57.3,Disbursed,963605,3.65,1,125.57
+LN00117,Home Loan,Mysuru,Medium,03-03-2025 08:00,27:36.8,Rejected,1936594,2.66,0,111.46
+LN00118,Vehicle Loan,Mysuru,Medium,04-08-2025 15:00,16:49.8,Rejected,678151,4.1,2,121.28
+LN00119,Home Loan,Bengaluru Central,Medium,20-10-2025 09:00,29:07.1,Rejected,1658885,3.44,1,125.49
+LN00120,Personal Loan,Whitefield,Low,09-04-2025 08:00,19:56.9,Disbursed,691462,2.66,0,36.33
+LN00121,Personal Loan,Whitefield,Medium,21-06-2025 10:00,42:00.9,Disbursed,762932,3.08,1,83.7
+LN00122,Personal Loan,Whitefield,High,26-12-2025 13:00,58:30.0,Disbursed,1766473,5.78,2,75.98
+LN00123,Vehicle Loan,Mysuru,Medium,02-08-2025 10:00,03:25.9,Rejected,858062,4.56,2,115.06
+LN00124,Vehicle Loan,Electronic City,Medium,04-02-2025 08:00,18:36.2,Disbursed,2418787,3.49,1,108.31
+LN00125,Personal Loan,Whitefield,Medium,15-08-2025 16:00,23:33.9,Disbursed,537707,4.65,1,71.39
+LN00126,Vehicle Loan,Bengaluru Central,Medium,11-04-2025 12:00,22:09.1,Disbursed,1168824,3.66,1,89.37
+LN00127,Vehicle Loan,Mysuru,Low,11-05-2025 14:00,06:03.6,Disbursed,336629,4.36,2,80.1
+LN00128,Vehicle Loan,Bengaluru Central,Low,14-09-2025 08:00,45:17.7,Withdrawn,1182870,3.26,1,80.75
+LN00129,Personal Loan,Whitefield,Medium,05-01-2025 16:00,12:19.9,Disbursed,1970773,3.54,0,53.21
+LN00130,Personal Loan,Mysuru,Medium,06-08-2025 08:00,23:00.8,Disbursed,2088170,3.36,0,72.38
+LN00131,Personal Loan,Electronic City,Low,12-09-2025 08:00,19:52.9,Disbursed,497628,3.45,1,84.33
+LN00132,Home Loan,Whitefield,Low,25-12-2025 16:00,26:52.6,Disbursed,2445067,2.14,0,103.45
+LN00133,Personal Loan,Hubballi,Medium,10-10-2025 15:00,02:32.7,Disbursed,826644,4.13,2,61.04
+LN00134,Home Loan,Electronic City,Low,26-07-2025 10:00,28:29.9,Withdrawn,413581,2.67,1,164.47
+LN00135,Business Loan,Mysuru,Low,15-01-2025 15:00,56:17.5,Disbursed,318602,2.88,0,50.94
+LN00136,Personal Loan,Bengaluru Central,Medium,12-12-2025 16:00,12:24.2,Rejected,531438,3.89,1,123.21
+LN00137,Personal Loan,Bengaluru Central,Low,11-02-2025 16:00,12:47.5,Rejected,117421,2.94,1,67.21
+LN00138,Home Loan,Hubballi,Low,28-06-2025 11:00,40:39.4,Disbursed,653359,3.06,1,95.68
+LN00139,Business Loan,Mysuru,Low,04-03-2025 11:00,38:48.2,Disbursed,1644469,2.43,0,143.65
+LN00140,Personal Loan,Mysuru,Medium,18-12-2025 16:00,07:14.0,Rejected,1418465,4.32,2,93.12
+LN00141,Business Loan,Hubballi,High,19-08-2025 16:00,04:53.7,Disbursed,2017775,7.97,4,203.08
+LN00142,Home Loan,Hubballi,Medium,29-08-2025 10:00,12:34.6,Disbursed,1793685,5.47,4,175.21
+LN00143,Home Loan,Whitefield,High,21-02-2025 16:00,06:05.0,Disbursed,2139884,7.14,3,260.1
+LN00144,Personal Loan,Mysuru,Low,06-04-2025 11:00,05:00.8,Rejected,1655399,3.01,0,58.08
+LN00145,Business Loan,Whitefield,Low,10-08-2025 15:00,05:05.9,Disbursed,2127645,3.95,2,71.08
+LN00146,Home Loan,Whitefield,Low,19-08-2025 11:00,56:17.8,Disbursed,1514458,2.37,0,144.94
+LN00147,Personal Loan,Hubballi,High,25-08-2025 09:00,55:24.1,Disbursed,381922,4.12,0,98.92
+LN00148,Business Loan,Hubballi,Medium,23-05-2025 14:00,25:18.8,Disbursed,2208714,4,1,142.42
+LN00149,Personal Loan,Electronic City,Low,20-06-2025 09:00,12:35.9,Rejected,2459048,2.34,0,56.21
+LN00150,Personal Loan,Hubballi,High,29-01-2025 11:00,51:49.2,Disbursed,1626634,5.42,1,97.86
+LN00151,Personal Loan,Whitefield,Medium,05-02-2025 10:00,11:17.0,Disbursed,1680594,4.94,2,84.19
+LN00152,Vehicle Loan,Whitefield,Medium,13-01-2025 09:00,25:48.6,Rejected,1380657,3.64,1,59.43
+LN00153,Personal Loan,Mysuru,Medium,09-06-2025 08:00,53:25.4,Disbursed,761475,4.19,1,104.89
+LN00154,Vehicle Loan,Mysuru,Medium,23-11-2025 16:00,02:31.0,Disbursed,1894348,4.02,1,134.04
+LN00155,Personal Loan,Hubballi,Low,06-07-2025 16:00,01:24.9,Disbursed,2161591,3.2,1,84.02
+LN00156,Personal Loan,Mysuru,Low,31-08-2025 13:00,53:00.5,Disbursed,2199151,2.77,0,51.88
+LN00157,Personal Loan,Whitefield,Low,27-03-2025 09:00,29:37.8,Disbursed,1726373,3.62,1,62.49
+LN00158,Home Loan,Hubballi,Medium,11-10-2025 10:00,13:17.5,Disbursed,1931986,4.1,1,113.22
+LN00159,Vehicle Loan,Bengaluru Central,Medium,07-03-2025 16:00,44:06.9,Disbursed,1472771,2.54,0,129.74
+LN00160,Personal Loan,Bengaluru Central,Low,19-06-2025 13:00,43:56.0,Disbursed,142508,2.87,1,30.73
+LN00161,Home Loan,Bengaluru Central,Low,14-02-2025 13:00,16:08.1,Disbursed,2292019,3.27,0,94.27
+LN00162,Personal Loan,Mysuru,High,03-03-2025 12:00,10:22.7,Rejected,2407761,5.26,1,141.17
+LN00163,Vehicle Loan,Electronic City,Low,14-05-2025 11:00,08:23.0,Disbursed,2164130,2.22,0,110.14
+LN00164,Personal Loan,Mysuru,Medium,11-10-2025 08:00,45:24.6,Disbursed,384154,3.79,1,96.76
+LN00165,Personal Loan,Electronic City,Low,28-01-2025 08:00,04:12.1,Disbursed,2290604,3.18,1,54.07
+LN00166,Home Loan,Whitefield,High,18-04-2025 10:00,13:47.3,Disbursed,845740,4.21,0,123.23
+LN00167,Business Loan,Mysuru,Low,13-02-2025 14:00,38:59.5,Disbursed,1302825,2.35,1,98.65
+LN00168,Home Loan,Whitefield,High,06-12-2025 13:00,12:06.1,Disbursed,683672,6.17,2,166.2
+LN00169,Vehicle Loan,Whitefield,Medium,13-10-2025 08:00,52:40.0,Disbursed,2402221,6.03,4,112.88
+LN00170,Personal Loan,Hubballi,Low,27-11-2025 12:00,44:44.2,Disbursed,2241667,2.76,0,53.75
+LN00171,Vehicle Loan,Bengaluru Central,Medium,08-05-2025 10:00,29:46.7,Withdrawn,198182,3.48,0,59.5
+LN00172,Vehicle Loan,Whitefield,Low,14-12-2025 15:00,08:28.5,Withdrawn,92039,2.93,1,77.14
+LN00173,Vehicle Loan,Whitefield,Low,19-08-2025 08:00,36:12.8,Withdrawn,398405,2.44,0,104.6
+LN00174,Personal Loan,Electronic City,Medium,09-07-2025 08:00,18:26.7,Rejected,73446,5.29,3,129.31
+LN00175,Personal Loan,Mysuru,High,13-08-2025 08:00,24:34.0,Disbursed,121326,6.36,1,86.41
+LN00176,Vehicle Loan,Hubballi,Medium,10-10-2025 12:00,23:45.3,Withdrawn,337374,4.96,2,52.4
+LN00177,Business Loan,Whitefield,Medium,01-05-2025 12:00,48:50.2,Disbursed,499110,3.55,0,98.81
+LN00178,Personal Loan,Hubballi,High,26-04-2025 08:00,39:09.7,Disbursed,2195943,6.42,2,66.65
+LN00179,Vehicle Loan,Electronic City,Low,21-08-2025 15:00,09:43.4,Disbursed,1724286,3.69,1,60.16
+LN00180,Personal Loan,Electronic City,Medium,16-09-2025 14:00,39:30.4,Disbursed,2487126,3.19,1,60.66
+LN00181,Home Loan,Electronic City,Low,25-12-2025 15:00,28:59.7,Disbursed,371243,1.69,0,97.48
+LN00182,Personal Loan,Electronic City,Medium,17-07-2025 15:00,03:34.5,Disbursed,1116746,4.09,1,80.06
+LN00183,Personal Loan,Whitefield,Medium,17-05-2025 15:00,19:22.2,Disbursed,834516,2.86,0,104.32
+LN00184,Business Loan,Mysuru,Medium,14-11-2025 08:00,51:15.0,Disbursed,1024507,3.65,0,93.85
+LN00185,Vehicle Loan,Hubballi,Medium,14-06-2025 08:00,32:56.4,Rejected,385983,3.15,0,95.55
+LN00186,Home Loan,Whitefield,Low,13-08-2025 13:00,57:07.3,Disbursed,1074446,3.07,0,130.95
+LN00187,Business Loan,Electronic City,Medium,03-11-2025 13:00,11:24.7,Rejected,462610,4.01,2,149.19
+LN00188,Personal Loan,Electronic City,Medium,22-08-2025 10:00,53:04.0,Disbursed,733850,3.44,0,93.88
+LN00189,Vehicle Loan,Hubballi,Low,21-06-2025 12:00,53:26.6,Disbursed,951111,2.62,0,102.89
+LN00190,Home Loan,Electronic City,Low,01-06-2025 09:00,44:45.4,Disbursed,2146539,2.28,0,104.75
+LN00191,Home Loan,Whitefield,Low,11-11-2025 12:00,39:47.4,Rejected,2236494,2.57,0,73.66
+LN00192,Personal Loan,Hubballi,High,09-06-2025 09:00,30:46.0,Disbursed,1447636,5.43,1,96.51
+LN00193,Vehicle Loan,Mysuru,High,06-04-2025 09:00,23:29.2,Disbursed,563672,6.23,2,180.39
+LN00194,Home Loan,Bengaluru Central,Medium,21-08-2025 14:00,34:46.6,Rejected,1740598,2.7,1,93.58
+LN00195,Personal Loan,Bengaluru Central,Low,29-06-2025 08:00,31:29.4,Disbursed,1621771,2.58,0,49.52
+LN00196,Business Loan,Hubballi,High,23-04-2025 10:00,16:54.1,Disbursed,646432,6.69,3,166.28
+LN00197,Personal Loan,Mysuru,Low,14-11-2025 14:00,29:39.1,Rejected,76119,2.18,0,37.49
+LN00198,Home Loan,Mysuru,Medium,21-02-2025 08:00,49:55.4,Disbursed,1039862,5.02,3,85.83
+LN00199,Vehicle Loan,Bengaluru Central,Medium,25-09-2025 12:00,00:41.8,Disbursed,1158731,3.54,0,69.01
+LN00200,Business Loan,Electronic City,Medium,22-10-2025 12:00,53:26.2,Disbursed,2054358,3.7,1,95.89
+LN00201,Personal Loan,Mysuru,Medium,23-04-2025 13:00,03:42.3,Disbursed,481838,3.34,0,115.06
+LN00202,Vehicle Loan,Whitefield,Low,11-04-2025 16:00,41:40.3,Disbursed,2113632,3.22,1,77.69
+LN00203,Personal Loan,Mysuru,Medium,23-04-2025 09:00,43:06.2,Disbursed,550228,4.16,1,90.72
+LN00204,Business Loan,Hubballi,Low,22-03-2025 08:00,45:35.2,Disbursed,1095962,2.93,0,88.76
+LN00205,Vehicle Loan,Whitefield,Medium,06-07-2025 15:00,48:06.1,Disbursed,1976823,5.53,3,69.8
+LN00206,Home Loan,Bengaluru Central,Medium,23-04-2025 10:00,01:49.1,Disbursed,520897,3.68,0,54.03
+LN00207,Personal Loan,Hubballi,Low,02-01-2025 09:00,54:51.6,Disbursed,1395360,3.16,0,97.91
+LN00208,Personal Loan,Mysuru,Medium,10-05-2025 13:00,52:39.0,Rejected,1105187,3.92,1,102.88
+LN00209,Vehicle Loan,Hubballi,Medium,08-08-2025 11:00,53:01.2,Rejected,100272,3.18,0,75.88
+LN00210,Home Loan,Bengaluru Central,Low,23-02-2025 11:00,23:26.3,Disbursed,2425093,3.38,1,141.39
+LN00211,Business Loan,Hubballi,Low,09-12-2025 11:00,04:24.7,Disbursed,922811,2.62,0,56.07
+LN00212,Personal Loan,Mysuru,Low,12-08-2025 11:00,33:33.5,Disbursed,945150,2.48,0,61.56
+LN00213,Home Loan,Mysuru,Medium,13-08-2025 10:00,46:26.0,Disbursed,1578474,3.48,0,88.77
+LN00214,Personal Loan,Electronic City,Medium,06-05-2025 12:00,38:41.6,Disbursed,1161284,4,1,97.64
+LN00215,Vehicle Loan,Hubballi,Medium,10-05-2025 08:00,12:23.7,Disbursed,1200112,4.76,1,87.21
+LN00216,Personal Loan,Whitefield,Medium,22-02-2025 11:00,58:36.2,Disbursed,2017739,3.63,1,93.98
+LN00217,Home Loan,Whitefield,Low,21-06-2025 16:00,32:08.1,Disbursed,1442247,2.86,0,92.54
+LN00218,Business Loan,Bengaluru Central,Low,06-08-2025 14:00,42:14.6,Disbursed,2373729,2.82,1,137.7
+LN00219,Personal Loan,Mysuru,Medium,09-06-2025 12:00,19:16.0,Withdrawn,1451718,4.06,2,98.32
+LN00220,Home Loan,Mysuru,Medium,17-07-2025 11:00,58:04.5,Disbursed,458449,4.2,2,70.97
+LN00221,Home Loan,Hubballi,Medium,04-09-2025 08:00,14:29.4,Disbursed,1886294,4.09,1,82.24
+LN00222,Vehicle Loan,Mysuru,Medium,20-11-2025 12:00,58:56.5,Disbursed,2402712,4.29,1,70.98
+LN00223,Personal Loan,Hubballi,Low,22-07-2025 14:00,11:50.1,Disbursed,1723783,2.74,1,73.2
+LN00224,Personal Loan,Bengaluru Central,Low,03-07-2025 09:00,15:41.2,Disbursed,2300477,2.19,0,95.26
+LN00225,Home Loan,Hubballi,Medium,03-05-2025 15:00,50:06.3,Disbursed,2084158,2.98,1,97.84
+LN00226,Business Loan,Whitefield,Low,12-09-2025 10:00,02:54.8,Disbursed,1856129,2.12,0,114.05
+LN00227,Vehicle Loan,Whitefield,Medium,21-10-2025 12:00,15:53.5,Disbursed,315721,3.07,0,81.26
+LN00228,Business Loan,Whitefield,Medium,07-10-2025 13:00,20:10.4,Disbursed,2220972,4.32,2,108.34
+LN00229,Personal Loan,Hubballi,Medium,21-11-2025 11:00,34:56.9,Disbursed,834717,3.81,0,99.58
+LN00230,Home Loan,Bengaluru Central,Medium,08-04-2025 15:00,09:40.0,Disbursed,729874,4.71,1,136.16
+LN00231,Home Loan,Whitefield,Medium,17-07-2025 16:00,57:13.1,Disbursed,156998,3.55,2,225.95
+LN00232,Home Loan,Electronic City,Medium,28-08-2025 12:00,41:52.8,Disbursed,2214064,3.83,1,136.7
+LN00233,Home Loan,Electronic City,Low,24-05-2025 11:00,23:16.4,Rejected,608867,2.61,0,116.39
+LN00234,Vehicle Loan,Whitefield,Low,07-04-2025 12:00,41:53.1,Disbursed,2351348,2.67,0,72.7
+LN00235,Vehicle Loan,Mysuru,Low,20-07-2025 11:00,37:54.2,Disbursed,2041524,2.04,0,60.63
+LN00236,Home Loan,Electronic City,Medium,04-05-2025 10:00,53:40.5,Disbursed,1190002,3.01,0,80.89
+LN00237,Vehicle Loan,Electronic City,Medium,06-07-2025 09:00,11:58.4,Disbursed,2351982,4.1,2,64.2
+LN00238,Personal Loan,Hubballi,Low,22-11-2025 09:00,47:29.6,Disbursed,2278610,2.99,1,104.79
+LN00239,Personal Loan,Bengaluru Central,Medium,15-12-2025 08:00,20:47.6,Rejected,1809268,3.45,0,24.35
+LN00240,Vehicle Loan,Bengaluru Central,Medium,16-09-2025 11:00,27:24.2,Disbursed,2121750,3.49,0,42.46
+LN00241,Home Loan,Electronic City,Low,28-05-2025 09:00,42:52.9,Disbursed,1632252,2.86,1,94.71
+LN00242,Business Loan,Whitefield,High,09-09-2025 14:00,29:00.8,Disbursed,1166741,7.14,3,206.48
+LN00243,Business Loan,Whitefield,Low,12-12-2025 10:00,03:38.9,Disbursed,2311030,2.58,0,54.06
+LN00244,Personal Loan,Electronic City,Low,27-05-2025 09:00,36:41.4,Disbursed,449782,2.55,0,61.61
+LN00245,Personal Loan,Whitefield,Medium,28-05-2025 14:00,06:31.9,Withdrawn,1550392,4.18,1,80.11
+LN00246,Personal Loan,Mysuru,Medium,18-12-2025 16:00,21:35.2,Disbursed,456497,4.89,3,102.36
+LN00247,Home Loan,Hubballi,Low,18-07-2025 10:00,00:53.1,Disbursed,1885003,3.05,1,87.01
+LN00248,Business Loan,Mysuru,Low,04-11-2025 12:00,43:38.5,Disbursed,1341527,3.5,2,97.73
+LN00249,Vehicle Loan,Hubballi,Medium,08-05-2025 12:00,08:09.6,Disbursed,1015701,3.67,1,77.14
+LN00250,Personal Loan,Bengaluru Central,High,08-02-2025 16:00,43:08.1,Withdrawn,1900642,7.32,4,160.72
+LN00251,Vehicle Loan,Hubballi,Low,04-12-2025 12:00,40:31.9,Disbursed,580901,2.58,1,87.68
+LN00252,Business Loan,Hubballi,Low,26-12-2025 10:00,33:52.3,Disbursed,1052378,2.59,0,112.56
+LN00253,Personal Loan,Whitefield,Low,09-05-2025 14:00,38:42.8,Disbursed,2222994,2.79,1,66.65
+LN00254,Vehicle Loan,Whitefield,Low,24-09-2025 12:00,13:50.2,Disbursed,969372,2.5,0,90.23
+LN00255,Vehicle Loan,Whitefield,Medium,31-05-2025 08:00,14:30.1,Disbursed,946020,3.44,0,56.24
+LN00256,Home Loan,Electronic City,Low,25-10-2025 09:00,54:09.4,Disbursed,1606610,3.32,0,61.9
+LN00257,Personal Loan,Hubballi,Medium,09-04-2025 13:00,55:07.3,Rejected,1272017,3.58,1,82.92
+LN00258,Business Loan,Electronic City,Low,20-09-2025 14:00,59:23.4,Disbursed,1049488,2.51,1,92.99
+LN00259,Personal Loan,Hubballi,Medium,09-09-2025 08:00,09:22.7,Disbursed,170026,3.53,0,52.16
+LN00260,Home Loan,Electronic City,High,24-05-2025 12:00,40:52.8,Disbursed,919946,5.6,1,119.68
+LN00261,Personal Loan,Bengaluru Central,Low,12-12-2025 12:00,53:44.2,Disbursed,2418048,3.1,0,36.9
+LN00262,Personal Loan,Bengaluru Central,Medium,22-04-2025 11:00,23:18.0,Disbursed,2269540,4.31,2,119.39
+LN00263,Business Loan,Whitefield,Low,01-03-2025 11:00,20:06.2,Disbursed,1515116,2.19,0,142.34
+LN00264,Business Loan,Bengaluru Central,Medium,02-01-2025 11:00,39:16.6,Disbursed,1522596,3.67,1,99.65
+LN00265,Home Loan,Mysuru,High,31-10-2025 10:00,43:14.3,Disbursed,505618,6.77,3,215.72
+LN00266,Personal Loan,Mysuru,High,11-09-2025 13:00,24:25.3,Disbursed,603616,5.75,2,78.41
+LN00267,Home Loan,Mysuru,High,20-05-2025 11:00,29:03.8,Disbursed,2063491,8.08,4,190.48
+LN00268,Personal Loan,Electronic City,Medium,06-02-2025 16:00,27:30.5,Disbursed,1777421,3.66,2,102.46
+LN00269,Personal Loan,Whitefield,Low,09-06-2025 10:00,12:31.4,Disbursed,1443570,2.39,0,82.21
+LN00270,Personal Loan,Electronic City,Medium,09-01-2025 13:00,35:39.5,Disbursed,1905251,4.92,3,70.59
+LN00271,Personal Loan,Hubballi,Medium,21-08-2025 08:00,09:04.8,Disbursed,328833,4.3,2,129.15
+LN00272,Vehicle Loan,Mysuru,Low,09-04-2025 14:00,28:18.4,Disbursed,2116462,3.41,1,55.47
+LN00273,Vehicle Loan,Electronic City,High,27-05-2025 08:00,23:33.8,Disbursed,1483097,5.21,1,221.39
+LN00274,Vehicle Loan,Whitefield,Medium,31-10-2025 10:00,33:17.4,Disbursed,1371648,4.57,2,131.55
+LN00275,Business Loan,Mysuru,Medium,27-07-2025 12:00,31:10.4,Disbursed,357311,3.69,1,158.52
+LN00276,Vehicle Loan,Bengaluru Central,Low,11-05-2025 15:00,45:42.4,Disbursed,2288591,2.62,0,40.76
+LN00277,Home Loan,Whitefield,High,01-06-2025 15:00,07:10.6,Disbursed,893354,7.86,3,161.12
+LN00278,Personal Loan,Hubballi,Low,23-02-2025 09:00,06:44.3,Disbursed,2108142,2.66,1,87.11
+LN00279,Vehicle Loan,Mysuru,High,30-04-2025 10:00,44:38.9,Disbursed,1941877,7.8,5,174.74
+LN00280,Personal Loan,Bengaluru Central,Low,10-06-2025 12:00,53:26.8,Withdrawn,136728,2.1,0,27.89
+LN00281,Home Loan,Electronic City,Low,26-04-2025 15:00,51:05.1,Disbursed,472701,1.94,0,37.85
+LN00282,Business Loan,Mysuru,Medium,16-03-2025 16:00,28:27.2,Disbursed,1730596,5.15,2,132.47
+LN00283,Personal Loan,Mysuru,Low,23-04-2025 15:00,54:41.0,Rejected,144328,3.11,1,77.91
+LN00284,Vehicle Loan,Hubballi,High,14-04-2025 15:00,33:57.6,Disbursed,2283355,6.72,2,192.57
+LN00285,Business Loan,Mysuru,Low,06-12-2025 14:00,23:23.8,Disbursed,225748,3.34,1,91.39
+LN00286,Business Loan,Hubballi,Medium,11-09-2025 12:00,05:17.3,Disbursed,2141526,4.05,1,101.09
+LN00287,Vehicle Loan,Bengaluru Central,Low,15-08-2025 13:00,23:44.8,Rejected,1214501,3.27,0,60.4
+LN00288,Personal Loan,Whitefield,Medium,22-04-2025 09:00,36:36.1,Disbursed,2436611,3.91,1,88.61
+LN00289,Personal Loan,Whitefield,Medium,09-04-2025 09:00,41:46.5,Disbursed,1736150,4.38,2,72.7
+LN00290,Home Loan,Whitefield,Medium,02-06-2025 15:00,36:54.2,Rejected,1064279,3.61,1,175.62
+LN00291,Vehicle Loan,Bengaluru Central,Low,15-12-2025 08:00,02:50.5,Disbursed,1253888,2.67,0,76.05
+LN00292,Vehicle Loan,Hubballi,Low,04-12-2025 11:00,52:34.2,Disbursed,905860,2.81,0,61.88
+LN00293,Personal Loan,Bengaluru Central,Low,13-07-2025 13:00,18:24.8,Disbursed,1386712,2.53,0,65.31
+LN00294,Personal Loan,Hubballi,Low,06-11-2025 13:00,33:09.0,Disbursed,189118,3.33,1,58.55
+LN00295,Personal Loan,Electronic City,High,12-06-2025 12:00,49:59.0,Disbursed,962737,6.84,3,114.83
+LN00296,Vehicle Loan,Electronic City,Medium,27-07-2025 09:00,30:11.0,Disbursed,1035080,2.96,0,96.5
+LN00297,Business Loan,Electronic City,Low,18-06-2025 09:00,02:49.3,Disbursed,2276015,2.65,1,95.05
+LN00298,Home Loan,Bengaluru Central,Medium,10-06-2025 14:00,23:46.1,Disbursed,145856,3.61,1,195.4
+LN00299,Home Loan,Mysuru,Low,09-03-2025 10:00,10:04.8,Rejected,1083687,3.19,1,121.17
+LN00300,Personal Loan,Mysuru,Medium,16-10-2025 10:00,28:56.5,Disbursed,624281,3.31,0,70.48
+LN00301,Personal Loan,Hubballi,Low,04-10-2025 08:00,20:41.2,Rejected,1708354,2.65,0,62.34
+LN00302,Vehicle Loan,Electronic City,Medium,31-10-2025 11:00,09:56.7,Disbursed,463437,4.45,1,61.17
+LN00303,Business Loan,Whitefield,Low,15-05-2025 09:00,21:24.5,Withdrawn,732622,4.13,2,95.36
+LN00304,Home Loan,Hubballi,Medium,14-07-2025 10:00,24:52.8,Disbursed,2491902,3.2,0,70.41
+LN00305,Personal Loan,Whitefield,Low,08-05-2025 10:00,14:32.2,Disbursed,1988814,2.28,0,59.24
+LN00306,Personal Loan,Electronic City,High,02-02-2025 14:00,46:03.0,Disbursed,907263,7.59,5,181.77
+LN00307,Vehicle Loan,Electronic City,High,25-06-2025 16:00,40:00.5,Disbursed,1714588,5.9,2,155.67
+LN00308,Home Loan,Whitefield,High,22-01-2025 14:00,37:24.6,Rejected,599634,6.4,2,191.62
+LN00309,Home Loan,Whitefield,Medium,26-08-2025 12:00,13:10.4,Disbursed,928340,3.5,1,133.22
+LN00310,Business Loan,Hubballi,Medium,07-06-2025 12:00,08:22.0,Disbursed,1547815,3.7,0,142.14
+LN00311,Personal Loan,Hubballi,Medium,07-02-2025 16:00,44:34.3,Disbursed,1593738,3.93,1,84.74
+LN00312,Home Loan,Whitefield,Medium,18-08-2025 09:00,14:27.4,Rejected,2133820,4.25,1,117.24
+LN00313,Vehicle Loan,Electronic City,Medium,31-12-2025 15:00,01:49.3,Disbursed,1626446,3.59,2,112.03
+LN00314,Home Loan,Hubballi,Medium,20-02-2025 16:00,34:58.7,Disbursed,552827,3.9,1,163.58
+LN00315,Business Loan,Hubballi,High,21-09-2025 10:00,15:13.8,Disbursed,1921648,4.82,0,146.25
+LN00316,Business Loan,Hubballi,Medium,10-10-2025 12:00,09:58.0,Disbursed,2182343,3.48,0,128.17
+LN00317,Vehicle Loan,Bengaluru Central,Medium,27-01-2025 08:00,23:05.8,Disbursed,365410,3.55,0,57.38
+LN00318,Vehicle Loan,Bengaluru Central,Low,14-08-2025 16:00,20:53.1,Withdrawn,1309846,2.21,0,68.35
+LN00319,Business Loan,Whitefield,Medium,04-10-2025 08:00,09:32.7,Disbursed,2293156,3.71,1,203.16
+LN00320,Business Loan,Hubballi,Low,13-10-2025 13:00,57:07.3,Disbursed,2018331,3.12,1,77.95
+LN00321,Vehicle Loan,Whitefield,Low,07-04-2025 13:00,12:05.5,Disbursed,2111057,3.07,0,95.2
+LN00322,Personal Loan,Electronic City,Low,11-10-2025 10:00,36:03.0,Disbursed,2086677,3.08,3,92.6
+LN00323,Home Loan,Whitefield,Low,13-11-2025 10:00,12:19.8,Disbursed,880623,2,0,82.21
+LN00324,Personal Loan,Whitefield,Low,31-10-2025 14:00,35:16.8,Disbursed,1456854,2.68,0,33.59
+LN00325,Business Loan,Whitefield,Low,27-05-2025 12:00,47:26.7,Disbursed,957043,3.32,1,56.79
+LN00326,Personal Loan,Mysuru,High,04-01-2025 16:00,00:37.8,Disbursed,836825,6.34,0,93.01
+LN00327,Business Loan,Bengaluru Central,Low,04-02-2025 13:00,37:11.7,Rejected,950499,2.98,0,80.62
+LN00328,Personal Loan,Hubballi,Low,11-07-2025 09:00,18:38.5,Disbursed,182192,3.35,1,61.31
+LN00329,Personal Loan,Whitefield,Medium,18-02-2025 14:00,24:10.6,Disbursed,2391152,4.23,1,87.4
+LN00330,Home Loan,Whitefield,Medium,17-01-2025 08:00,55:14.2,Withdrawn,2106019,4.45,2,147.92
+LN00331,Personal Loan,Whitefield,Medium,21-06-2025 13:00,10:18.6,Disbursed,948027,3.92,1,73.17
+LN00332,Vehicle Loan,Hubballi,Medium,08-08-2025 12:00,05:02.7,Rejected,867865,4.98,3,90.08
+LN00333,Home Loan,Hubballi,Medium,07-06-2025 11:00,46:15.9,Disbursed,1731717,3.8,0,146.77
+LN00334,Business Loan,Bengaluru Central,Low,15-02-2025 15:00,02:52.9,Disbursed,1798021,3.17,1,94.05
+LN00335,Business Loan,Hubballi,Low,06-01-2025 11:00,07:31.4,Disbursed,1881524,2.92,1,56.13
+LN00336,Vehicle Loan,Electronic City,Low,09-04-2025 09:00,14:22.8,Disbursed,730306,2.19,0,53.24
+LN00337,Vehicle Loan,Bengaluru Central,Medium,21-08-2025 16:00,42:49.1,Rejected,797405,4.02,3,100.71
+LN00338,Vehicle Loan,Hubballi,Medium,06-02-2025 11:00,26:30.5,Withdrawn,2455775,3.79,1,116.44
+LN00339,Business Loan,Electronic City,Medium,07-10-2025 12:00,15:03.8,Disbursed,502685,4.37,1,91.25
+LN00340,Home Loan,Whitefield,Low,15-12-2025 15:00,37:32.4,Disbursed,409140,2.86,1,116.63
+LN00341,Vehicle Loan,Hubballi,Low,29-10-2025 09:00,43:10.3,Disbursed,1055236,3.52,2,64.72
+LN00342,Personal Loan,Bengaluru Central,Medium,30-06-2025 10:00,07:02.9,Disbursed,1101429,3.06,1,90.12
+LN00343,Personal Loan,Bengaluru Central,High,05-04-2025 13:00,28:34.9,Rejected,737843,7.14,2,117.48
+LN00344,Vehicle Loan,Bengaluru Central,Medium,09-04-2025 11:00,28:33.2,Disbursed,1001077,4.93,3,177.48
+LN00345,Home Loan,Hubballi,Low,07-07-2025 16:00,09:32.6,Rejected,1830446,2.7,0,67.16
+LN00346,Personal Loan,Mysuru,Medium,26-04-2025 11:00,13:01.8,Disbursed,792126,4.95,3,69.22
+LN00347,Home Loan,Mysuru,High,10-07-2025 08:00,28:38.1,Rejected,1205703,5.15,2,188.48
+LN00348,Personal Loan,Bengaluru Central,Low,10-09-2025 15:00,40:20.9,Disbursed,2457897,2.3,0,96.67
+LN00349,Vehicle Loan,Whitefield,Medium,10-06-2025 16:00,48:43.3,Disbursed,1581453,4.76,2,122.81
+LN00350,Vehicle Loan,Hubballi,Low,13-09-2025 16:00,36:09.6,Disbursed,191981,2.49,0,45.6
+LN00351,Personal Loan,Whitefield,Low,19-11-2025 13:00,15:31.4,Disbursed,1727055,2.77,1,88.26
+LN00352,Personal Loan,Whitefield,Low,08-05-2025 11:00,51:15.7,Disbursed,885672,2.89,0,60.85
+LN00353,Personal Loan,Mysuru,High,18-01-2025 13:00,11:13.0,Disbursed,554879,5.22,0,88.19
+LN00354,Vehicle Loan,Mysuru,Medium,08-10-2025 11:00,06:38.1,Withdrawn,714990,4.31,2,58.11
+LN00355,Personal Loan,Bengaluru Central,Low,11-08-2025 13:00,46:50.1,Withdrawn,1124159,2.33,0,95.78
+LN00356,Personal Loan,Whitefield,Medium,23-02-2025 14:00,08:17.8,Disbursed,1341820,4.51,1,86.14
+LN00357,Home Loan,Whitefield,Medium,27-02-2025 16:00,57:26.9,Disbursed,642633,5.34,4,137.96
+LN00358,Vehicle Loan,Electronic City,Medium,19-11-2025 15:00,11:08.7,Disbursed,1224848,4.57,1,88.19
+LN00359,Vehicle Loan,Bengaluru Central,Medium,26-12-2025 09:00,14:03.9,Disbursed,886073,3.75,1,51.23
+LN00360,Personal Loan,Bengaluru Central,High,23-06-2025 13:00,13:40.2,Disbursed,276351,6.17,1,89.23
+LN00361,Business Loan,Whitefield,Low,07-10-2025 14:00,44:13.8,Rejected,790904,3.44,1,72.74
+LN00362,Personal Loan,Mysuru,Medium,24-04-2025 16:00,51:18.9,Disbursed,2269104,3.78,0,67.86
+LN00363,Personal Loan,Mysuru,High,15-10-2025 11:00,35:25.3,Rejected,2341297,6.66,3,221.59
+LN00364,Vehicle Loan,Whitefield,Medium,08-12-2025 15:00,15:44.6,Disbursed,601990,4.06,1,120.26
+LN00365,Personal Loan,Mysuru,Medium,31-05-2025 13:00,26:29.9,Disbursed,886776,3.56,1,96.44
+LN00366,Personal Loan,Electronic City,High,07-05-2025 10:00,28:43.4,Disbursed,583464,5.54,1,155.48
+LN00367,Personal Loan,Bengaluru Central,Low,04-06-2025 15:00,15:02.5,Disbursed,120185,2.33,0,56.25
+LN00368,Vehicle Loan,Mysuru,Medium,30-09-2025 15:00,27:41.0,Disbursed,2457237,3.37,1,105.46
+LN00369,Business Loan,Mysuru,Medium,14-04-2025 12:00,42:44.7,Disbursed,117583,4.13,2,95.71
+LN00370,Vehicle Loan,Electronic City,Low,26-10-2025 12:00,08:43.1,Disbursed,2318963,2.28,0,47.15
+LN00371,Vehicle Loan,Whitefield,Medium,03-09-2025 16:00,50:14.3,Disbursed,1594968,3.58,0,93.84
+LN00372,Personal Loan,Bengaluru Central,Low,25-06-2025 14:00,11:54.9,Disbursed,2090254,3.45,2,96.2
+LN00373,Vehicle Loan,Bengaluru Central,Low,08-02-2025 15:00,44:21.7,Disbursed,1049168,2.17,0,49.74
+LN00374,Personal Loan,Hubballi,High,19-06-2025 14:00,08:49.8,Disbursed,66291,5.64,2,114.15
+LN00375,Personal Loan,Whitefield,High,04-09-2025 15:00,10:52.1,Disbursed,770658,6.92,3,174.18
+LN00376,Business Loan,Hubballi,Low,26-01-2025 16:00,36:59.4,Disbursed,492850,3.04,1,167.62
+LN00377,Business Loan,Whitefield,Low,21-12-2025 09:00,44:48.8,Disbursed,99987,2.81,1,101.75
+LN00378,Personal Loan,Mysuru,High,02-11-2025 14:00,17:47.0,Disbursed,673426,5.98,4,180.3
+LN00379,Vehicle Loan,Hubballi,Low,13-01-2025 10:00,33:19.8,Disbursed,634352,3.16,1,109.56
+LN00380,Home Loan,Bengaluru Central,Low,12-11-2025 13:00,08:30.7,Rejected,1933637,2.47,0,141.14
+LN00381,Vehicle Loan,Electronic City,Medium,09-11-2025 15:00,39:02.3,Disbursed,133335,4,1,84.65
+LN00382,Home Loan,Mysuru,Low,05-02-2025 13:00,26:17.0,Disbursed,1962996,3.25,1,102.44
+LN00383,Vehicle Loan,Electronic City,Medium,22-06-2025 10:00,46:31.3,Disbursed,1975478,4.59,2,90.78
+LN00384,Personal Loan,Hubballi,Low,20-01-2025 14:00,31:18.7,Disbursed,394901,3.41,1,68.52
+LN00385,Personal Loan,Whitefield,Medium,17-11-2025 11:00,25:20.8,Disbursed,988314,3.17,0,105.42
+LN00386,Personal Loan,Bengaluru Central,High,21-09-2025 16:00,57:00.3,Disbursed,1360470,5.75,1,100.95
+LN00387,Personal Loan,Bengaluru Central,Low,22-05-2025 11:00,55:42.2,Disbursed,2415362,3.02,1,49.93
+LN00388,Vehicle Loan,Bengaluru Central,Low,23-05-2025 12:00,58:18.9,Disbursed,2109435,2.71,0,142.97
+LN00389,Vehicle Loan,Hubballi,Medium,02-04-2025 15:00,12:48.5,Withdrawn,811632,3.73,0,57.21
+LN00390,Personal Loan,Hubballi,Low,20-12-2025 10:00,00:54.5,Rejected,362683,2.63,1,74.02
+LN00391,Business Loan,Electronic City,Low,18-11-2025 15:00,56:21.8,Disbursed,1356542,2.79,0,119.94
+LN00392,Personal Loan,Electronic City,Low,15-10-2025 08:00,24:59.3,Disbursed,2153884,2.29,0,45.42
+LN00393,Vehicle Loan,Bengaluru Central,Medium,03-08-2025 12:00,49:14.9,Withdrawn,1973625,5.02,2,63.82
+LN00394,Vehicle Loan,Hubballi,Low,08-12-2025 13:00,16:46.6,Disbursed,1701210,2.72,2,86.28
+LN00395,Home Loan,Mysuru,High,20-02-2025 15:00,54:30.1,Disbursed,2043499,6.68,2,127.91
+LN00396,Personal Loan,Hubballi,Low,02-06-2025 08:00,54:14.0,Disbursed,106400,3.02,1,61.9
+LN00397,Home Loan,Electronic City,Medium,05-07-2025 10:00,34:16.7,Disbursed,995859,3.65,1,106.57
+LN00398,Vehicle Loan,Hubballi,Low,04-03-2025 14:00,50:25.4,Disbursed,827277,2.97,0,94.84
+LN00399,Home Loan,Hubballi,High,09-07-2025 09:00,09:32.7,Disbursed,2344582,6.43,2,189.16
+LN00400,Business Loan,Whitefield,Medium,05-05-2025 08:00,09:58.6,Disbursed,2033286,4.18,1,132.17
+LN00401,Vehicle Loan,Mysuru,Medium,30-05-2025 09:00,41:38.4,Disbursed,144138,2.94,0,58.69
+LN00402,Home Loan,Bengaluru Central,Low,10-11-2025 08:00,37:49.6,Disbursed,387905,2.79,0,112.63
+LN00403,Personal Loan,Bengaluru Central,Medium,27-02-2025 08:00,37:57.1,Disbursed,2364139,4.06,0,62.63
+LN00404,Vehicle Loan,Bengaluru Central,Low,08-12-2025 10:00,12:31.3,Disbursed,589121,2.94,0,58.21
+LN00405,Personal Loan,Mysuru,Low,01-11-2025 16:00,59:12.0,Disbursed,2305608,2.49,0,72.99
+LN00406,Personal Loan,Hubballi,High,29-06-2025 15:00,39:30.0,Disbursed,1707552,6.93,3,180.66
+LN00407,Business Loan,Electronic City,Medium,19-06-2025 12:00,11:42.3,Disbursed,587421,3.03,0,40.2
+LN00408,Personal Loan,Bengaluru Central,Low,22-11-2025 13:00,19:16.6,Disbursed,459318,2.31,0,62.32
+LN00409,Personal Loan,Electronic City,Medium,28-09-2025 12:00,36:08.7,Withdrawn,1926395,5.33,3,146.6
+LN00410,Vehicle Loan,Electronic City,Low,23-02-2025 13:00,38:44.8,Disbursed,355005,2.47,0,51.65
+LN00411,Personal Loan,Electronic City,Low,11-04-2025 09:00,38:22.7,Disbursed,1457924,3.94,2,95.64
+LN00412,Home Loan,Mysuru,Low,21-09-2025 08:00,19:55.1,Disbursed,387621,2.66,0,82.33
+LN00413,Personal Loan,Whitefield,Low,22-02-2025 13:00,00:58.6,Disbursed,142814,4.27,2,65.02
+LN00414,Vehicle Loan,Whitefield,Low,01-03-2025 08:00,47:24.2,Disbursed,1245294,2.43,0,52.79
+LN00415,Personal Loan,Hubballi,High,18-04-2025 10:00,12:04.1,Rejected,1037215,6.66,2,200.2
+LN00416,Business Loan,Electronic City,Low,05-01-2025 15:00,35:29.2,Disbursed,937483,2.85,0,138.59
+LN00417,Home Loan,Electronic City,Medium,13-04-2025 15:00,48:40.7,Disbursed,1405014,5,2,77.81
+LN00418,Business Loan,Whitefield,High,15-07-2025 16:00,51:17.8,Withdrawn,1459528,6.65,2,100.85
+LN00419,Vehicle Loan,Hubballi,Low,19-09-2025 10:00,21:01.8,Disbursed,1529381,2.96,0,38.35
+LN00420,Personal Loan,Hubballi,Low,31-12-2025 11:00,29:43.6,Disbursed,715545,3.05,0,84.5
+LN00421,Home Loan,Mysuru,Medium,16-12-2025 16:00,18:08.9,Disbursed,557607,3.47,1,255.3
+LN00422,Personal Loan,Whitefield,Low,16-02-2025 10:00,57:19.5,Disbursed,468086,2.68,0,82.96
+LN00423,Personal Loan,Electronic City,Low,21-12-2025 15:00,00:49.8,Disbursed,2399110,2.31,0,26.01
+LN00424,Personal Loan,Mysuru,Low,07-11-2025 12:00,14:49.4,Disbursed,1690827,2.65,0,45.25
+LN00425,Business Loan,Hubballi,Medium,04-11-2025 14:00,25:14.7,Disbursed,352417,3.93,1,69.42
+LN00426,Vehicle Loan,Hubballi,Medium,24-05-2025 13:00,30:34.1,Disbursed,1269532,4.05,2,131.51
+LN00427,Home Loan,Hubballi,Low,26-09-2025 14:00,44:29.2,Disbursed,1971919,3.13,1,48.74
+LN00428,Personal Loan,Whitefield,Medium,04-05-2025 14:00,08:39.2,Rejected,2256948,3.46,1,81.14
+LN00429,Home Loan,Hubballi,Low,16-04-2025 09:00,44:08.0,Disbursed,414793,2.81,1,61.74
+LN00430,Personal Loan,Electronic City,Medium,07-06-2025 10:00,01:48.0,Disbursed,2088887,3.71,1,98.03
+LN00431,Vehicle Loan,Hubballi,Low,27-05-2025 10:00,17:41.8,Rejected,824957,2.71,1,56.29
+LN00432,Home Loan,Whitefield,Low,25-05-2025 13:00,22:20.6,Rejected,177987,3.48,2,124.37
+LN00433,Vehicle Loan,Hubballi,High,30-04-2025 11:00,43:42.6,Disbursed,2208505,5.98,2,156.73
+LN00434,Personal Loan,Electronic City,Medium,15-11-2025 13:00,31:43.8,Disbursed,2146530,4.45,2,126.53
+LN00435,Personal Loan,Electronic City,Medium,02-10-2025 14:00,55:37.5,Disbursed,396653,3.78,0,45.93
+LN00436,Home Loan,Hubballi,Low,02-04-2025 15:00,16:58.5,Disbursed,539660,2.74,0,107.28
+LN00437,Personal Loan,Mysuru,Medium,27-02-2025 12:00,20:45.5,Disbursed,1860173,3.65,1,119.35
+LN00438,Vehicle Loan,Whitefield,Medium,12-12-2025 10:00,14:12.5,Disbursed,1584535,3.62,1,171.24
+LN00439,Home Loan,Hubballi,Low,17-08-2025 16:00,46:13.6,Disbursed,2041316,2.95,0,57.77
+LN00440,Home Loan,Hubballi,Medium,27-04-2025 12:00,04:06.8,Disbursed,2054268,4.59,2,128.07
+LN00441,Home Loan,Whitefield,Low,14-11-2025 10:00,41:48.4,Rejected,159009,2.53,0,86.7
+LN00442,Vehicle Loan,Whitefield,High,06-10-2025 11:00,31:14.7,Disbursed,117957,8,4,170.52
+LN00443,Personal Loan,Mysuru,High,07-05-2025 12:00,15:57.0,Disbursed,186063,5.17,1,89.27
+LN00444,Vehicle Loan,Whitefield,Medium,09-05-2025 15:00,19:37.4,Disbursed,743371,2.96,1,103.33
+LN00445,Personal Loan,Bengaluru Central,Medium,27-02-2025 15:00,08:32.7,Rejected,1148463,4.53,2,103.14
+LN00446,Personal Loan,Bengaluru Central,Low,02-05-2025 10:00,28:51.2,Rejected,2401099,2.87,0,29.48
+LN00447,Personal Loan,Hubballi,Low,01-01-2025 14:00,14:33.7,Disbursed,97259,3.05,1,74.24
+LN00448,Personal Loan,Bengaluru Central,High,27-08-2025 12:00,31:02.9,Rejected,158407,4.76,0,99.52
+LN00449,Vehicle Loan,Hubballi,Low,17-10-2025 14:00,04:17.8,Disbursed,463552,3.1,2,72.07
+LN00450,Vehicle Loan,Bengaluru Central,Medium,06-04-2025 16:00,12:33.1,Disbursed,1720255,3.01,0,75.21
+LN00451,Personal Loan,Bengaluru Central,Medium,06-05-2025 09:00,59:23.3,Disbursed,1246360,3.71,1,52.99
+LN00452,Vehicle Loan,Mysuru,High,28-04-2025 16:00,13:14.4,Disbursed,922894,6.29,2,160.22
+LN00453,Home Loan,Mysuru,Low,17-02-2025 12:00,13:36.4,Disbursed,1653239,2.42,1,104.23
+LN00454,Vehicle Loan,Hubballi,Medium,30-03-2025 10:00,45:39.8,Disbursed,2422786,4.89,3,84.76
+LN00455,Home Loan,Hubballi,Low,25-08-2025 16:00,21:46.4,Disbursed,822455,2.28,0,68.36
+LN00456,Business Loan,Hubballi,Low,29-09-2025 13:00,22:16.6,Rejected,2130278,2.68,0,57.37
+LN00457,Personal Loan,Bengaluru Central,Medium,08-07-2025 11:00,57:38.5,Disbursed,1723298,4.02,1,60.96
+LN00458,Personal Loan,Hubballi,Medium,11-07-2025 16:00,58:16.7,Disbursed,2030715,4.18,2,83.97
+LN00459,Personal Loan,Electronic City,Low,10-03-2025 14:00,32:37.7,Withdrawn,203306,2.76,1,98.54
+LN00460,Vehicle Loan,Hubballi,Medium,05-10-2025 13:00,38:15.0,Disbursed,2233617,4.8,3,134.64
+LN00461,Personal Loan,Hubballi,Low,15-12-2025 11:00,19:05.3,Disbursed,944585,3.42,1,50.32
+LN00462,Personal Loan,Electronic City,Low,04-09-2025 09:00,12:06.2,Disbursed,1074052,2.22,0,91.2
+LN00463,Home Loan,Mysuru,Medium,17-03-2025 15:00,30:22.0,Disbursed,456885,3.27,1,189.51
+LN00464,Business Loan,Whitefield,Medium,03-06-2025 16:00,29:45.0,Disbursed,1659920,4.66,3,245.5
+LN00465,Vehicle Loan,Bengaluru Central,Low,24-05-2025 08:00,51:47.8,Disbursed,2157923,2.42,0,100.86
+LN00466,Personal Loan,Electronic City,Low,27-03-2025 10:00,27:41.2,Disbursed,995784,2.22,0,50.46
+LN00467,Personal Loan,Hubballi,Medium,04-07-2025 08:00,20:51.8,Rejected,2258040,4.76,3,119.35
+LN00468,Vehicle Loan,Whitefield,Medium,12-10-2025 14:00,06:16.5,Disbursed,246868,2.82,0,61.1
+LN00469,Vehicle Loan,Mysuru,Medium,08-08-2025 16:00,22:26.9,Disbursed,1459709,2.97,0,107.37
+LN00470,Vehicle Loan,Bengaluru Central,Low,10-03-2025 10:00,02:47.8,Rejected,1305358,2.73,0,76.05
+LN00471,Personal Loan,Hubballi,Medium,16-02-2025 11:00,06:07.6,Disbursed,1347244,4.22,1,54.1
+LN00472,Home Loan,Electronic City,Medium,04-04-2025 12:00,04:24.6,Disbursed,945446,4.11,1,187.07
+LN00473,Business Loan,Bengaluru Central,Medium,26-08-2025 12:00,15:37.0,Disbursed,987116,3.83,1,193.26
+LN00474,Home Loan,Whitefield,Low,23-07-2025 16:00,08:19.4,Disbursed,771471,2.41,1,67.14
+LN00475,Home Loan,Hubballi,Low,06-08-2025 11:00,29:25.5,Disbursed,1139739,3.36,1,112.49
+LN00476,Personal Loan,Bengaluru Central,Medium,07-12-2025 11:00,06:08.1,Disbursed,1091597,3.53,0,71.1
+LN00477,Vehicle Loan,Hubballi,Low,08-02-2025 08:00,01:13.4,Disbursed,1345339,3.42,1,113.02
+LN00478,Personal Loan,Hubballi,High,10-04-2025 08:00,32:33.7,Disbursed,1027154,7.58,2,125.54
+LN00479,Home Loan,Bengaluru Central,Low,16-10-2025 11:00,44:46.9,Disbursed,2364000,2.57,0,88.75
+LN00480,Vehicle Loan,Hubballi,Low,11-09-2025 10:00,53:11.8,Disbursed,1883633,2.78,0,78.89
+LN00481,Business Loan,Whitefield,High,10-08-2025 13:00,34:22.0,Disbursed,623030,6.08,2,195.57
+LN00482,Personal Loan,Hubballi,Medium,23-12-2025 10:00,40:17.4,Disbursed,1187542,3.83,2,79.67
+LN00483,Business Loan,Hubballi,Low,23-01-2025 12:00,27:11.4,Withdrawn,1639056,2.35,0,90.45
+LN00484,Personal Loan,Bengaluru Central,Medium,07-09-2025 12:00,42:58.1,Rejected,572005,3.4,0,76.72
+LN00485,Business Loan,Electronic City,Low,10-01-2025 10:00,42:02.9,Rejected,1896796,2.97,1,97.7
+LN00486,Business Loan,Whitefield,Low,03-09-2025 08:00,10:02.0,Disbursed,1008652,2.95,1,89.17
+LN00487,Personal Loan,Electronic City,High,21-11-2025 12:00,36:41.9,Disbursed,849137,4.83,0,85.61
+LN00488,Home Loan,Hubballi,Medium,10-04-2025 16:00,44:42.4,Disbursed,709429,5.02,1,217.75
+LN00489,Personal Loan,Whitefield,Medium,17-10-2025 10:00,37:07.1,Rejected,835291,3.87,1,85.62
+LN00490,Vehicle Loan,Whitefield,Low,29-06-2025 08:00,14:15.5,Disbursed,2356072,3.34,1,97.24
+LN00491,Home Loan,Electronic City,Medium,11-08-2025 09:00,17:30.8,Disbursed,448498,3.07,0,93.29
+LN00492,Home Loan,Bengaluru Central,High,07-09-2025 09:00,21:29.2,Disbursed,738578,6.77,3,154.36
+LN00493,Home Loan,Hubballi,Medium,27-05-2025 14:00,44:28.2,Disbursed,378574,3.92,1,167.74
+LN00494,Home Loan,Electronic City,Medium,06-04-2025 09:00,04:35.8,Disbursed,2463122,4.23,1,115.08
+LN00495,Home Loan,Electronic City,Medium,14-09-2025 14:00,16:52.0,Rejected,1638237,4.25,1,70.28
+LN00496,Business Loan,Whitefield,High,21-11-2025 11:00,21:09.3,Disbursed,2440442,4.8,0,140.35
+LN00497,Vehicle Loan,Hubballi,Medium,04-01-2025 08:00,07:49.3,Disbursed,493318,4,2,106.13
+LN00498,Personal Loan,Electronic City,Medium,16-01-2025 13:00,37:08.8,Disbursed,449456,4.62,1,44.62
+LN00499,Vehicle Loan,Bengaluru Central,Low,07-10-2025 14:00,51:41.4,Disbursed,908095,2.96,0,71.86
+LN00500,Personal Loan,Electronic City,High,02-12-2025 12:00,36:47.1,Disbursed,1606681,7.67,3,92.61
+LN00501,Vehicle Loan,Mysuru,Low,04-09-2025 13:00,45:32.5,Disbursed,538963,2.15,0,47.76
+LN00502,Home Loan,Hubballi,High,15-09-2025 12:00,38:15.5,Disbursed,2130286,5.85,1,160.64
+LN00503,Vehicle Loan,Electronic City,Medium,09-06-2025 10:00,20:43.5,Disbursed,2119368,3.43,1,91.35
+LN00504,Personal Loan,Electronic City,Low,06-12-2025 11:00,51:51.7,Disbursed,2151977,4.39,2,116.86
+LN00505,Business Loan,Mysuru,Low,01-06-2025 14:00,42:30.5,Disbursed,1554139,2.63,1,84.71
+LN00506,Home Loan,Bengaluru Central,Low,27-06-2025 15:00,41:22.2,Disbursed,295828,2.46,1,87.69
+LN00507,Personal Loan,Hubballi,Low,12-06-2025 11:00,35:29.9,Disbursed,1549961,2.92,0,34.59
+LN00508,Personal Loan,Whitefield,Low,02-02-2025 11:00,54:35.2,Rejected,1334597,2.46,0,35.91
+LN00509,Personal Loan,Whitefield,Low,28-06-2025 10:00,20:20.0,Rejected,1901159,2.68,0,71.34
+LN00510,Home Loan,Mysuru,High,11-04-2025 11:00,57:57.1,Disbursed,2279754,7.94,4,201.97
+LN00511,Personal Loan,Electronic City,Medium,25-09-2025 15:00,22:56.0,Disbursed,1433573,3.48,1,83.38
+LN00512,Home Loan,Electronic City,Medium,19-11-2025 14:00,13:05.2,Disbursed,2270514,5.1,2,133.22
+LN00513,Vehicle Loan,Electronic City,High,06-03-2025 16:00,18:31.5,Disbursed,810490,6.7,2,161.31
+LN00514,Personal Loan,Whitefield,Low,17-06-2025 13:00,22:59.4,Disbursed,1522947,2.94,0,83.38
+LN00515,Personal Loan,Hubballi,Medium,26-11-2025 16:00,03:46.3,Disbursed,1959585,4.49,2,101.06
+LN00516,Vehicle Loan,Whitefield,High,12-02-2025 13:00,55:14.4,Disbursed,676987,7,2,110.92
+LN00517,Personal Loan,Hubballi,Medium,13-02-2025 10:00,17:08.9,Disbursed,1144408,3.69,2,102.29
+LN00518,Vehicle Loan,Mysuru,High,12-10-2025 13:00,58:01.3,Disbursed,900756,6,3,127.97
+LN00519,Personal Loan,Whitefield,Medium,12-01-2025 10:00,29:06.1,Disbursed,122146,3.47,1,166.49
+LN00520,Home Loan,Whitefield,Medium,05-04-2025 10:00,41:58.5,Disbursed,1736571,3.7,1,137.7
+LN00521,Home Loan,Whitefield,Medium,29-10-2025 08:00,38:13.9,Disbursed,2326459,2.86,0,136.64
+LN00522,Personal Loan,Electronic City,Medium,10-09-2025 13:00,51:49.3,Disbursed,2396072,4.39,1,88.86
+LN00523,Vehicle Loan,Bengaluru Central,Low,30-08-2025 12:00,02:11.4,Withdrawn,231756,2.55,0,79.04
+LN00524,Business Loan,Electronic City,Low,04-02-2025 12:00,50:15.2,Disbursed,1200154,2.84,1,40.84
+LN00525,Home Loan,Whitefield,Low,03-08-2025 13:00,26:50.4,Disbursed,1785245,2.45,0,74.45
+LN00526,Home Loan,Mysuru,Medium,03-12-2025 08:00,39:00.2,Disbursed,574938,3.83,1,97.65
+LN00527,Home Loan,Whitefield,Medium,31-03-2025 16:00,19:01.9,Disbursed,2475974,4.06,2,196.32
+LN00528,Vehicle Loan,Bengaluru Central,Medium,21-09-2025 11:00,22:49.5,Disbursed,2311403,3.65,0,78.38
+LN00529,Home Loan,Mysuru,Low,03-04-2025 09:00,38:19.2,Disbursed,1758070,2.61,0,80.64
+LN00530,Home Loan,Electronic City,Medium,31-03-2025 09:00,01:36.7,Disbursed,2465614,4.1,3,112.03
+LN00531,Business Loan,Mysuru,Low,25-04-2025 09:00,38:43.1,Disbursed,1065044,3.41,2,91.65
+LN00532,Vehicle Loan,Electronic City,Medium,15-04-2025 15:00,13:14.3,Disbursed,1322263,3.52,1,117.22
+LN00533,Business Loan,Whitefield,Low,15-07-2025 15:00,07:38.1,Disbursed,1605981,2.17,0,104.13
+LN00534,Business Loan,Whitefield,Medium,10-11-2025 13:00,56:58.1,Withdrawn,1194398,3.59,1,128.95
+LN00535,Business Loan,Bengaluru Central,Medium,24-04-2025 13:00,23:55.7,Disbursed,1893152,3.9,1,116.4
+LN00536,Vehicle Loan,Mysuru,Low,16-03-2025 11:00,47:33.2,Disbursed,1827266,2.39,0,80.79
+LN00537,Personal Loan,Electronic City,Low,05-08-2025 09:00,53:02.1,Disbursed,1281793,2.25,0,50.88
+LN00538,Personal Loan,Electronic City,Medium,04-10-2025 09:00,59:20.6,Disbursed,1723478,4.35,1,112.99
+LN00539,Vehicle Loan,Whitefield,Medium,06-09-2025 11:00,33:31.8,Withdrawn,629302,4.19,1,166.56
+LN00540,Business Loan,Bengaluru Central,Medium,13-06-2025 08:00,12:26.9,Withdrawn,1641020,4.07,2,152.21
+LN00541,Vehicle Loan,Mysuru,Low,23-12-2025 14:00,44:39.8,Disbursed,1749859,2.3,1,86.74
+LN00542,Vehicle Loan,Electronic City,Low,11-07-2025 12:00,30:16.0,Disbursed,973557,2.19,0,71.5
+LN00543,Personal Loan,Hubballi,Low,15-08-2025 09:00,56:33.8,Disbursed,561499,2.74,0,55.94
+LN00544,Personal Loan,Electronic City,High,26-06-2025 08:00,06:31.1,Disbursed,367957,7.61,3,112.11
+LN00545,Vehicle Loan,Mysuru,Low,09-04-2025 15:00,25:29.1,Disbursed,676499,2.96,0,85.42
+LN00546,Personal Loan,Bengaluru Central,Low,05-02-2025 08:00,19:46.3,Disbursed,1804801,2.14,0,61.33
+LN00547,Vehicle Loan,Hubballi,Medium,06-04-2025 16:00,50:43.0,Withdrawn,2075774,3.98,1,74.85
+LN00548,Personal Loan,Mysuru,Low,01-06-2025 14:00,35:15.1,Disbursed,2322911,4.14,2,65.59
+LN00549,Personal Loan,Mysuru,Medium,31-05-2025 10:00,35:46.5,Disbursed,1241709,3.93,1,65.6
+LN00550,Business Loan,Electronic City,Medium,09-07-2025 10:00,39:49.6,Withdrawn,1209587,4.16,1,139.66
+LN00551,Personal Loan,Mysuru,Low,12-08-2025 16:00,37:29.6,Disbursed,1336087,3.23,1,88.62
+LN00552,Personal Loan,Whitefield,Medium,06-02-2025 13:00,55:14.5,Disbursed,571128,4.92,3,81.92
+LN00553,Vehicle Loan,Hubballi,Medium,25-09-2025 11:00,25:43.2,Rejected,1136970,2.79,1,66.43
+LN00554,Vehicle Loan,Electronic City,Low,02-07-2025 14:00,35:09.7,Withdrawn,76467,2.34,0,85.59
+LN00555,Vehicle Loan,Hubballi,Medium,13-01-2025 12:00,29:38.0,Disbursed,1683170,5.13,2,90.49
+LN00556,Business Loan,Mysuru,Low,06-10-2025 13:00,48:49.3,Rejected,258569,3.32,1,59.81
+LN00557,Home Loan,Bengaluru Central,Medium,05-08-2025 08:00,24:30.4,Disbursed,2268856,3.63,2,88.41
+LN00558,Vehicle Loan,Whitefield,Medium,21-12-2025 14:00,21:41.3,Disbursed,427481,4.21,1,71.36
+LN00559,Home Loan,Bengaluru Central,Medium,27-12-2025 14:00,02:29.5,Withdrawn,269866,5.17,3,224.04
+LN00560,Personal Loan,Electronic City,High,13-10-2025 16:00,53:22.6,Disbursed,1626546,7.11,4,164.89
+LN00561,Home Loan,Hubballi,Medium,30-09-2025 13:00,40:18.9,Disbursed,944740,4.38,2,65.67
+LN00562,Vehicle Loan,Hubballi,Medium,03-03-2025 15:00,14:25.2,Disbursed,2070112,4.09,1,56.24
+LN00563,Personal Loan,Electronic City,Low,25-03-2025 16:00,36:28.2,Disbursed,1023900,3.33,1,79.61
+LN00564,Personal Loan,Bengaluru Central,Medium,05-08-2025 10:00,03:45.9,Disbursed,629984,3.83,0,66.06
+LN00565,Home Loan,Bengaluru Central,Low,08-12-2025 13:00,09:51.5,Rejected,2191641,3.57,1,120.16
+LN00566,Personal Loan,Mysuru,Medium,06-07-2025 10:00,22:09.9,Disbursed,1342661,3.92,1,71.37
+LN00567,Vehicle Loan,Bengaluru Central,Low,19-01-2025 12:00,43:24.6,Disbursed,725593,2.9,0,76.72
+LN00568,Personal Loan,Mysuru,Low,26-06-2025 10:00,37:45.1,Disbursed,2045072,2.85,1,73.63
+LN00569,Personal Loan,Bengaluru Central,Low,10-04-2025 09:00,11:58.5,Disbursed,339118,3.14,0,49.2
+LN00570,Personal Loan,Hubballi,Low,21-08-2025 14:00,36:35.4,Disbursed,1698626,3.54,1,88.61
+LN00571,Home Loan,Whitefield,Medium,17-03-2025 11:00,59:21.7,Rejected,418241,3.81,0,125.99
+LN00572,Business Loan,Hubballi,Low,22-09-2025 13:00,57:41.4,Disbursed,182409,2.59,0,107.96
+LN00573,Home Loan,Electronic City,Medium,11-10-2025 16:00,43:08.4,Disbursed,1243431,3.93,1,165.72
+LN00574,Home Loan,Whitefield,Low,25-07-2025 13:00,12:31.1,Disbursed,2111200,1.93,0,88.21
+LN00575,Vehicle Loan,Mysuru,Low,11-08-2025 16:00,39:40.7,Disbursed,1627640,2.24,0,46.66
+LN00576,Vehicle Loan,Electronic City,Low,21-02-2025 10:00,38:12.1,Disbursed,99348,2.81,0,27.64
+LN00577,Vehicle Loan,Hubballi,Low,05-12-2025 13:00,59:51.5,Rejected,122207,2.01,1,65
+LN00578,Vehicle Loan,Hubballi,Medium,24-05-2025 08:00,57:42.1,Disbursed,1484248,3.88,2,128.96
+LN00579,Home Loan,Electronic City,Low,10-03-2025 12:00,07:55.9,Rejected,975855,2.49,0,31.13
+LN00580,Business Loan,Bengaluru Central,Low,09-04-2025 13:00,41:23.0,Disbursed,2217233,2.19,0,156.69
+LN00581,Personal Loan,Bengaluru Central,Medium,25-01-2025 09:00,25:09.4,Disbursed,648137,4.62,2,114.42
+LN00582,Home Loan,Whitefield,Low,22-02-2025 09:00,57:49.1,Disbursed,1191911,2.26,0,83.96
+LN00583,Vehicle Loan,Hubballi,Low,31-05-2025 14:00,29:51.1,Disbursed,776389,2.54,0,88.5
+LN00584,Home Loan,Electronic City,High,24-05-2025 09:00,25:47.1,Disbursed,2299750,7.09,3,249.43
+LN00585,Vehicle Loan,Whitefield,Medium,26-02-2025 16:00,49:24.6,Disbursed,331752,3.26,0,52.82
+LN00586,Home Loan,Whitefield,Low,08-02-2025 14:00,32:35.7,Disbursed,318966,2.39,0,188.54
+LN00587,Vehicle Loan,Whitefield,Medium,19-04-2025 16:00,06:32.5,Rejected,2296019,2.42,0,98.11
+LN00588,Business Loan,Mysuru,Low,30-06-2025 08:00,21:00.4,Disbursed,718838,3.13,1,92.35
+LN00589,Home Loan,Whitefield,Medium,11-02-2025 13:00,02:37.3,Rejected,1960970,3.92,1,88.04
+LN00590,Personal Loan,Mysuru,Low,05-07-2025 12:00,03:38.7,Rejected,1466254,2.66,0,57.06
+LN00591,Vehicle Loan,Mysuru,Low,11-08-2025 16:00,36:47.0,Disbursed,1565003,2.93,1,84.61
+LN00592,Business Loan,Electronic City,High,02-05-2025 16:00,57:23.4,Disbursed,1546916,5.61,3,183.96
+LN00593,Home Loan,Whitefield,Medium,13-05-2025 14:00,06:13.2,Disbursed,1582202,4.14,1,73.1
+LN00594,Business Loan,Electronic City,Low,12-06-2025 11:00,53:13.1,Disbursed,1988000,2.89,1,108.89
+LN00595,Personal Loan,Electronic City,Low,03-08-2025 16:00,33:25.5,Disbursed,1225054,3.29,0,72.56
+LN00596,Personal Loan,Electronic City,Low,09-08-2025 13:00,12:06.8,Disbursed,1658015,2.87,1,93.2
+LN00597,Personal Loan,Hubballi,Medium,23-08-2025 16:00,46:42.4,Rejected,1690827,4.76,3,108.78
+LN00598,Personal Loan,Whitefield,High,27-11-2025 16:00,35:56.6,Withdrawn,1778653,5.71,3,161.6
+LN00599,Home Loan,Bengaluru Central,Low,26-05-2025 12:00,03:28.4,Disbursed,2353828,2.51,0,80.06
+LN00600,Vehicle Loan,Bengaluru Central,Medium,27-08-2025 10:00,47:14.9,Disbursed,662583,4.72,2,93.79
+LN00601,Personal Loan,Bengaluru Central,Low,17-03-2025 13:00,48:09.2,Rejected,838848,2.25,0,70.8
+LN00602,Personal Loan,Whitefield,Medium,09-01-2025 12:00,04:54.1,Disbursed,1133805,4.02,2,124.08
+LN00603,Personal Loan,Electronic City,Low,15-03-2025 16:00,12:17.6,Disbursed,1066613,3.26,1,93.2
+LN00604,Vehicle Loan,Mysuru,Medium,10-09-2025 12:00,38:45.3,Rejected,158043,3.37,1,90.65
+LN00605,Vehicle Loan,Mysuru,Low,18-08-2025 10:00,34:35.7,Rejected,1239177,2.87,0,77.58
+LN00606,Vehicle Loan,Bengaluru Central,Low,07-01-2025 11:00,34:19.3,Disbursed,2254712,2.28,0,35.57
+LN00607,Personal Loan,Bengaluru Central,Medium,23-06-2025 09:00,09:03.4,Disbursed,1328141,3.17,0,57.15
+LN00608,Home Loan,Electronic City,Low,21-05-2025 08:00,42:40.2,Rejected,769452,2.77,1,140.71
+LN00609,Personal Loan,Electronic City,Medium,17-06-2025 13:00,45:16.0,Withdrawn,1485471,5.2,2,80.75
+LN00610,Business Loan,Electronic City,Low,19-06-2025 15:00,19:42.7,Disbursed,473158,2.6,0,104.33
+LN00611,Home Loan,Mysuru,High,10-10-2025 14:00,37:14.1,Disbursed,729441,5.51,1,132.62
+LN00612,Vehicle Loan,Whitefield,Medium,02-05-2025 13:00,05:01.9,Disbursed,888769,3.22,0,94.08
+LN00613,Vehicle Loan,Bengaluru Central,High,13-07-2025 08:00,19:02.1,Disbursed,1379780,7.3,4,167.32
+LN00614,Home Loan,Whitefield,High,05-01-2025 10:00,38:37.8,Disbursed,2240198,5.97,1,130.64
+LN00615,Vehicle Loan,Electronic City,Medium,29-01-2025 15:00,40:25.0,Disbursed,1091737,4.03,2,95.67
+LN00616,Personal Loan,Bengaluru Central,High,14-06-2025 14:00,49:19.4,Disbursed,1095611,5.74,1,91.82
+LN00617,Personal Loan,Bengaluru Central,Low,05-12-2025 14:00,33:18.3,Disbursed,150494,2.9,1,60.56
+LN00618,Vehicle Loan,Whitefield,Low,16-05-2025 11:00,51:13.7,Rejected,232285,3.13,0,60.85
+LN00619,Personal Loan,Mysuru,Medium,31-12-2025 13:00,20:49.7,Withdrawn,639988,4.35,2,125.35
+LN00620,Vehicle Loan,Electronic City,Medium,17-11-2025 14:00,21:48.0,Disbursed,197052,3.17,0,62.36
+LN00621,Home Loan,Electronic City,High,08-12-2025 14:00,18:21.1,Disbursed,1626090,7.04,2,143.31
+LN00622,Vehicle Loan,Bengaluru Central,Low,25-05-2025 10:00,09:54.2,Withdrawn,462882,2.98,2,61.17
+LN00623,Business Loan,Electronic City,Low,23-11-2025 10:00,36:28.8,Disbursed,1944806,2.56,0,42.61
+LN00624,Business Loan,Hubballi,Medium,05-08-2025 10:00,22:13.9,Disbursed,292051,3.64,2,121.37
+LN00625,Personal Loan,Electronic City,Low,28-10-2025 15:00,50:01.1,Withdrawn,480035,2.18,0,56.83
+LN00626,Personal Loan,Electronic City,Low,12-05-2025 13:00,57:05.1,Disbursed,1704964,3.35,1,69.95
+LN00627,Home Loan,Hubballi,Low,19-10-2025 10:00,23:42.4,Disbursed,1761545,4.23,2,133.4
+LN00628,Vehicle Loan,Mysuru,Medium,11-03-2025 15:00,42:26.3,Rejected,2352606,3.63,1,95.71
+LN00629,Personal Loan,Bengaluru Central,Medium,09-09-2025 08:00,27:15.8,Withdrawn,2231429,3.47,1,84.45
+LN00630,Home Loan,Hubballi,Medium,02-10-2025 13:00,28:47.0,Disbursed,1101879,5.1,2,103.48
+LN00631,Home Loan,Electronic City,High,30-12-2025 08:00,43:40.2,Withdrawn,860713,4.88,1,135.73
+LN00632,Vehicle Loan,Hubballi,Low,01-07-2025 16:00,03:02.8,Rejected,842621,2.73,0,39.05
+LN00633,Vehicle Loan,Whitefield,Low,16-06-2025 16:00,12:30.4,Disbursed,1386808,2.29,0,54.21
+LN00634,Vehicle Loan,Whitefield,Medium,01-04-2025 14:00,20:58.8,Disbursed,975863,4.18,1,111.35
+LN00635,Personal Loan,Hubballi,High,21-07-2025 09:00,33:36.2,Disbursed,1237585,7.14,2,199.56
+LN00636,Business Loan,Electronic City,Medium,12-12-2025 10:00,48:17.0,Disbursed,756852,3.69,1,116.8
+LN00637,Business Loan,Whitefield,Low,19-01-2025 08:00,14:10.8,Disbursed,1847333,2.26,0,100.24
+LN00638,Personal Loan,Mysuru,Medium,08-02-2025 14:00,12:14.2,Rejected,1186365,3.76,0,56.2
+LN00639,Vehicle Loan,Mysuru,Low,06-05-2025 14:00,36:03.8,Disbursed,1244579,2.25,0,41.6
+LN00640,Home Loan,Electronic City,Low,22-06-2025 11:00,19:13.4,Disbursed,2060587,2.3,0,104.32
+LN00641,Personal Loan,Hubballi,High,21-05-2025 15:00,21:43.1,Disbursed,2048235,5.4,1,130.36
+LN00642,Personal Loan,Hubballi,Low,30-08-2025 16:00,28:42.1,Disbursed,2310346,2.12,0,58.48
+LN00643,Vehicle Loan,Bengaluru Central,Low,08-08-2025 10:00,18:44.9,Disbursed,115625,3.92,2,68.31
+LN00644,Vehicle Loan,Electronic City,Medium,06-05-2025 16:00,54:56.3,Disbursed,410379,3.84,1,103.92
+LN00645,Personal Loan,Electronic City,Medium,27-02-2025 12:00,13:55.0,Withdrawn,1895869,4.27,0,63.23
+LN00646,Business Loan,Bengaluru Central,High,28-05-2025 16:00,15:08.3,Rejected,2062054,6.11,2,127.25
+LN00647,Personal Loan,Mysuru,Medium,13-11-2025 14:00,36:49.5,Rejected,1344532,3.9,1,62.61
+LN00648,Personal Loan,Mysuru,Low,27-12-2025 13:00,03:54.0,Disbursed,2065138,2.68,0,55.07
+LN00649,Vehicle Loan,Mysuru,Medium,01-01-2025 14:00,33:37.8,Disbursed,2471379,3.69,0,81.56
+LN00650,Personal Loan,Mysuru,Low,14-12-2025 09:00,44:41.4,Disbursed,1890124,2.62,1,51.74
+LN00651,Business Loan,Hubballi,High,09-07-2025 11:00,45:21.8,Disbursed,509943,5.38,2,189.76
+LN00652,Personal Loan,Bengaluru Central,Low,10-07-2025 13:00,03:56.6,Disbursed,1772397,2.1,0,50.07
+LN00653,Home Loan,Mysuru,Medium,08-11-2025 15:00,11:59.0,Rejected,506695,4.85,2,160.2
+LN00654,Home Loan,Bengaluru Central,Medium,27-04-2025 14:00,19:13.9,Disbursed,1684919,3.56,0,168.32
+LN00655,Home Loan,Bengaluru Central,Medium,14-05-2025 08:00,03:47.5,Disbursed,1490766,3.77,2,116.06
+LN00656,Home Loan,Mysuru,Medium,27-02-2025 11:00,32:48.6,Rejected,2030185,4.64,4,114.55
+LN00657,Personal Loan,Bengaluru Central,Medium,13-02-2025 14:00,33:01.7,Disbursed,1357825,3.62,0,91.55
+LN00658,Personal Loan,Hubballi,Medium,22-06-2025 15:00,08:47.9,Disbursed,753635,4,0,61.15
+LN00659,Vehicle Loan,Bengaluru Central,High,09-06-2025 14:00,04:48.9,Disbursed,2096366,6.72,3,138.08
+LN00660,Business Loan,Whitefield,Low,22-06-2025 16:00,53:22.8,Disbursed,1497534,3.39,1,102.89
+LN00661,Personal Loan,Electronic City,Medium,13-11-2025 11:00,19:41.2,Disbursed,845450,3.66,0,77.33
+LN00662,Business Loan,Electronic City,Medium,30-10-2025 12:00,16:00.4,Disbursed,328659,3.17,1,152.27
+LN00663,Business Loan,Hubballi,Medium,29-05-2025 13:00,06:25.8,Withdrawn,1784532,3.74,0,66.11
+LN00664,Home Loan,Whitefield,Medium,21-03-2025 15:00,04:10.5,Disbursed,1142465,3.94,3,267.07
+LN00665,Home Loan,Bengaluru Central,High,01-08-2025 10:00,00:32.0,Disbursed,1285512,6.05,1,163.01
+LN00666,Personal Loan,Mysuru,Low,22-07-2025 11:00,09:44.6,Disbursed,1404671,2.69,1,46.16
+LN00667,Vehicle Loan,Bengaluru Central,Low,09-09-2025 10:00,04:07.8,Disbursed,289039,2.45,1,117.07
+LN00668,Home Loan,Bengaluru Central,Low,17-08-2025 08:00,11:04.5,Disbursed,602302,2.63,0,131.18
+LN00669,Vehicle Loan,Electronic City,Medium,13-06-2025 12:00,34:45.4,Disbursed,925272,4.25,2,122.58
+LN00670,Vehicle Loan,Hubballi,Low,15-08-2025 13:00,49:18.2,Disbursed,1334208,3.5,1,71.82
+LN00671,Home Loan,Electronic City,Medium,27-05-2025 10:00,15:48.6,Rejected,2132832,3.41,0,111.26
+LN00672,Home Loan,Whitefield,Medium,20-01-2025 12:00,08:31.4,Rejected,1795318,4.41,1,161.14
+LN00673,Home Loan,Hubballi,Medium,16-02-2025 15:00,33:45.2,Disbursed,714373,4.41,1,143.56
+LN00674,Personal Loan,Bengaluru Central,Low,21-08-2025 09:00,07:34.4,Rejected,2047405,3.86,2,84.13
+LN00675,Personal Loan,Electronic City,Medium,01-11-2025 08:00,23:17.9,Disbursed,1646817,4.72,2,144.39
+LN00676,Vehicle Loan,Electronic City,Low,14-01-2025 09:00,15:10.2,Rejected,218578,2.93,1,97.25
+LN00677,Personal Loan,Bengaluru Central,Medium,23-05-2025 08:00,45:42.1,Disbursed,210330,4.38,2,95.76
+LN00678,Business Loan,Bengaluru Central,Medium,01-01-2025 11:00,31:06.1,Rejected,890582,4.04,3,95.52
+LN00679,Home Loan,Bengaluru Central,Low,23-02-2025 10:00,34:53.0,Disbursed,1187088,2.62,0,117.58
+LN00680,Business Loan,Hubballi,Medium,16-09-2025 14:00,07:06.0,Disbursed,1994327,4.58,2,116.12
+LN00681,Personal Loan,Mysuru,Medium,24-05-2025 16:00,28:35.4,Disbursed,2256615,4.13,3,124.48
+LN00682,Vehicle Loan,Bengaluru Central,Low,12-01-2025 11:00,49:21.5,Disbursed,543349,3.05,0,82.82
+LN00683,Home Loan,Mysuru,Low,26-11-2025 12:00,16:50.8,Disbursed,2248568,2.54,0,93.28
+LN00684,Personal Loan,Electronic City,Medium,12-08-2025 10:00,29:41.4,Disbursed,2407306,3.28,1,76.49
+LN00685,Vehicle Loan,Hubballi,Low,29-09-2025 13:00,04:39.6,Rejected,92582,3.63,2,64.08
+LN00686,Personal Loan,Whitefield,Low,24-12-2025 11:00,11:14.5,Disbursed,870968,2.64,0,69.19
+LN00687,Vehicle Loan,Mysuru,Low,05-06-2025 14:00,00:19.1,Disbursed,2013763,2.35,0,117.01
+LN00688,Personal Loan,Mysuru,Medium,08-01-2025 11:00,53:46.3,Disbursed,700369,4.38,1,56.9
+LN00689,Vehicle Loan,Bengaluru Central,Low,02-05-2025 09:00,01:10.8,Disbursed,1284486,2.27,0,49.02
+LN00690,Personal Loan,Bengaluru Central,Low,14-12-2025 09:00,20:50.0,Withdrawn,137000,3.15,0,82.35
+LN00691,Home Loan,Whitefield,Medium,13-06-2025 11:00,28:15.3,Disbursed,364624,4.45,2,128.47
+LN00692,Personal Loan,Electronic City,Medium,31-03-2025 08:00,30:45.9,Disbursed,666988,4.83,3,97.51
+LN00693,Vehicle Loan,Mysuru,Low,16-05-2025 08:00,50:22.6,Disbursed,226784,2.49,0,80.84
+LN00694,Vehicle Loan,Bengaluru Central,High,05-07-2025 16:00,42:43.9,Rejected,2037249,7.34,2,139.71
+LN00695,Business Loan,Hubballi,Low,12-11-2025 13:00,48:34.3,Disbursed,1003947,3.02,1,113.81
+LN00696,Personal Loan,Mysuru,Medium,27-06-2025 09:00,29:34.2,Withdrawn,1702007,3.83,2,74.49
+LN00697,Vehicle Loan,Mysuru,Medium,28-01-2025 09:00,08:58.1,Rejected,1397985,3.22,0,58.15
+LN00698,Personal Loan,Hubballi,Low,08-08-2025 12:00,56:27.3,Rejected,675982,3.96,2,64.94
+LN00699,Business Loan,Hubballi,Medium,23-12-2025 11:00,35:48.0,Disbursed,2270015,4.83,2,158.6
+LN00700,Vehicle Loan,Electronic City,Low,10-02-2025 15:00,51:15.4,Disbursed,275538,3.09,2,62.85
+LN00701,Home Loan,Hubballi,Low,16-08-2025 08:00,26:03.1,Disbursed,541311,2.95,1,61.43
+LN00702,Business Loan,Bengaluru Central,Medium,11-07-2025 15:00,09:12.9,Disbursed,516682,4.27,1,160.15
+LN00703,Personal Loan,Electronic City,Medium,25-05-2025 08:00,09:48.5,Disbursed,1297862,3.84,1,110.16
+LN00704,Personal Loan,Mysuru,Medium,20-07-2025 08:00,47:53.3,Withdrawn,1486806,3.53,0,123.8
+LN00705,Personal Loan,Bengaluru Central,Medium,31-07-2025 11:00,05:47.8,Rejected,1620621,3.22,0,81.1
+LN00706,Vehicle Loan,Mysuru,Low,08-08-2025 16:00,27:14.0,Disbursed,277371,2.47,0,66.45
+LN00707,Home Loan,Electronic City,Medium,28-08-2025 08:00,41:45.5,Disbursed,2120778,4.65,2,102.7
+LN00708,Vehicle Loan,Electronic City,Low,15-02-2025 11:00,13:19.4,Disbursed,981014,3.36,1,127.22
+LN00709,Personal Loan,Bengaluru Central,Low,04-02-2025 13:00,02:30.5,Disbursed,1753058,2.4,0,67.04
+LN00710,Home Loan,Bengaluru Central,Medium,10-09-2025 09:00,11:07.9,Disbursed,631072,4.33,1,168.19
+LN00711,Personal Loan,Whitefield,Low,23-03-2025 13:00,42:04.9,Disbursed,740674,2.86,1,59.7
+LN00712,Personal Loan,Electronic City,Medium,13-09-2025 14:00,45:33.9,Disbursed,2023287,3.58,1,69.76
+LN00713,Personal Loan,Electronic City,Medium,16-07-2025 13:00,54:14.0,Disbursed,1808260,3.38,0,90.9
+LN00714,Personal Loan,Mysuru,Low,30-10-2025 10:00,44:29.7,Disbursed,2168302,2.91,2,84.74
+LN00715,Vehicle Loan,Mysuru,Low,10-01-2025 12:00,07:09.1,Disbursed,246562,2.16,0,44.12
+LN00716,Business Loan,Electronic City,Medium,08-11-2025 08:00,00:23.3,Disbursed,282129,3.66,1,196.01
+LN00717,Vehicle Loan,Whitefield,Low,13-10-2025 11:00,33:03.8,Rejected,1588497,2.14,0,56.55
+LN00718,Personal Loan,Mysuru,Low,30-08-2025 11:00,47:51.1,Withdrawn,1404726,3.49,2,70.8
+LN00719,Personal Loan,Bengaluru Central,Medium,08-09-2025 08:00,35:48.3,Disbursed,654404,4.07,0,109.6
+LN00720,Personal Loan,Whitefield,Low,31-12-2025 09:00,26:55.2,Disbursed,726678,2.95,1,72.45
+LN00721,Personal Loan,Whitefield,Low,05-01-2025 08:00,04:33.9,Disbursed,1999627,2.99,1,68.08
+LN00722,Personal Loan,Whitefield,Low,29-04-2025 10:00,31:43.9,Disbursed,650956,2.62,1,48.53
+LN00723,Business Loan,Electronic City,Low,16-10-2025 11:00,25:33.4,Rejected,1022565,2.77,1,87.43
+LN00724,Business Loan,Whitefield,Low,06-03-2025 14:00,22:40.5,Disbursed,2247314,3.48,1,92.38
+LN00725,Home Loan,Whitefield,Medium,26-05-2025 08:00,32:42.6,Disbursed,2043634,2.95,0,193.55
+LN00726,Home Loan,Electronic City,Low,12-08-2025 08:00,29:34.4,Disbursed,1203451,2.97,1,170.49
+LN00727,Personal Loan,Mysuru,Low,27-08-2025 13:00,37:35.6,Disbursed,348643,3.73,2,104.63
+LN00728,Home Loan,Whitefield,High,26-06-2025 16:00,25:31.6,Disbursed,508589,5.89,1,212.43
+LN00729,Personal Loan,Mysuru,Low,24-09-2025 13:00,24:41.1,Disbursed,854017,2.03,0,70.41
+LN00730,Personal Loan,Electronic City,High,07-12-2025 13:00,49:34.4,Disbursed,1908844,6.54,4,190.83
+LN00731,Home Loan,Mysuru,Low,09-10-2025 08:00,36:36.8,Disbursed,1629436,2.15,0,79.61
+LN00732,Personal Loan,Whitefield,Medium,04-03-2025 08:00,41:19.4,Disbursed,1296961,3.27,0,97.69
+LN00733,Vehicle Loan,Electronic City,High,05-08-2025 09:00,45:51.2,Disbursed,1427893,7.49,4,190.76
+LN00734,Personal Loan,Whitefield,Medium,08-12-2025 13:00,10:26.2,Withdrawn,2334893,5.08,2,77.17
+LN00735,Vehicle Loan,Mysuru,High,11-11-2025 14:00,39:33.7,Disbursed,510575,7.85,3,89.66
+LN00736,Personal Loan,Hubballi,Medium,10-10-2025 08:00,28:10.7,Rejected,211772,3.39,0,79.47
+LN00737,Personal Loan,Electronic City,Low,26-06-2025 13:00,50:12.9,Disbursed,101569,2.76,1,76.84
+LN00738,Home Loan,Hubballi,Medium,08-04-2025 14:00,14:32.2,Disbursed,1082554,4.68,3,167.24
+LN00739,Personal Loan,Mysuru,High,15-04-2025 16:00,17:44.4,Withdrawn,1906069,6.75,2,98.3
+LN00740,Home Loan,Mysuru,Medium,09-04-2025 13:00,58:47.2,Disbursed,1555795,4.01,1,81.98
+LN00741,Personal Loan,Mysuru,Medium,07-11-2025 14:00,02:35.9,Disbursed,1974537,3.98,0,50.04
+LN00742,Vehicle Loan,Bengaluru Central,Medium,06-01-2025 16:00,10:07.2,Disbursed,349016,5.1,2,79.17
+LN00743,Personal Loan,Bengaluru Central,High,16-07-2025 14:00,03:45.1,Rejected,2380453,6.08,3,126.06
+LN00744,Personal Loan,Electronic City,Low,17-12-2025 16:00,35:53.3,Disbursed,2497536,2.91,0,83.6
+LN00745,Home Loan,Mysuru,Medium,13-05-2025 15:00,37:57.6,Rejected,2398176,3.26,2,124.63
+LN00746,Home Loan,Whitefield,Medium,24-12-2025 11:00,24:57.0,Disbursed,836028,4.5,2,122.42
+LN00747,Vehicle Loan,Whitefield,Medium,16-09-2025 16:00,16:10.5,Disbursed,1499026,4.97,2,79.27
+LN00748,Personal Loan,Mysuru,Medium,23-01-2025 13:00,58:40.8,Disbursed,1097807,4.04,1,80.98
+LN00749,Personal Loan,Mysuru,Low,22-02-2025 15:00,10:12.7,Disbursed,1216992,3.52,2,65.17
+LN00750,Home Loan,Mysuru,Medium,14-06-2025 11:00,14:37.3,Withdrawn,539493,3.37,0,119.24
+LN00751,Personal Loan,Whitefield,Low,21-07-2025 11:00,24:05.6,Rejected,354291,2.86,0,76.4
+LN00752,Home Loan,Electronic City,Medium,24-03-2025 11:00,22:42.4,Disbursed,1230465,4.62,1,93.38
+LN00753,Home Loan,Hubballi,Low,25-05-2025 13:00,35:30.2,Disbursed,731289,2.17,0,78.59
+LN00754,Business Loan,Electronic City,Low,26-03-2025 09:00,08:15.9,Disbursed,2452397,2.59,1,117.14
+LN00755,Personal Loan,Whitefield,Low,19-03-2025 16:00,43:57.0,Rejected,1481325,3.29,1,128.73
+LN00756,Home Loan,Whitefield,Low,01-01-2025 08:00,31:21.7,Disbursed,2271586,2.79,0,66.52
+LN00757,Home Loan,Electronic City,Medium,20-02-2025 08:00,49:42.5,Disbursed,958926,3.57,1,142.83
+LN00758,Personal Loan,Mysuru,Medium,22-06-2025 16:00,57:00.8,Disbursed,1624580,4.79,2,97.95
+LN00759,Vehicle Loan,Whitefield,High,24-07-2025 12:00,47:06.3,Disbursed,506854,6.83,2,206.79
+LN00760,Personal Loan,Hubballi,Medium,17-09-2025 12:00,48:31.3,Disbursed,978675,2.81,0,139.81
+LN00761,Vehicle Loan,Hubballi,Low,15-10-2025 16:00,43:38.6,Withdrawn,1615832,1.92,0,50.73
+LN00762,Vehicle Loan,Mysuru,Medium,03-02-2025 15:00,36:39.5,Disbursed,304598,4.3,1,96.61
+LN00763,Vehicle Loan,Electronic City,Medium,14-12-2025 14:00,30:55.1,Rejected,1220819,4.56,2,86.52
+LN00764,Personal Loan,Whitefield,Medium,05-04-2025 08:00,15:21.4,Disbursed,2299780,2.94,1,88.26
+LN00765,Home Loan,Mysuru,Medium,13-03-2025 15:00,58:13.1,Withdrawn,1739571,3.24,1,103.97
+LN00766,Personal Loan,Mysuru,Medium,08-02-2025 12:00,37:11.0,Disbursed,2222396,5.92,5,88.62
+LN00767,Personal Loan,Bengaluru Central,Low,03-06-2025 10:00,09:41.2,Disbursed,1095599,2.54,0,51.16
+LN00768,Personal Loan,Hubballi,High,07-09-2025 08:00,31:53.4,Disbursed,1020389,6.37,1,76.53
+LN00769,Personal Loan,Whitefield,Medium,11-06-2025 14:00,31:51.5,Disbursed,1540707,4.01,1,92.53
+LN00770,Vehicle Loan,Bengaluru Central,High,28-04-2025 13:00,55:13.3,Disbursed,1354930,5.84,2,120.92
+LN00771,Home Loan,Electronic City,High,16-09-2025 08:00,35:30.6,Rejected,1653206,6.91,3,225.59
+LN00772,Business Loan,Electronic City,Low,02-11-2025 16:00,07:35.9,Disbursed,1945840,2.4,0,48.13
+LN00773,Personal Loan,Bengaluru Central,Low,25-09-2025 10:00,55:13.8,Disbursed,148904,3.69,2,85.92
+LN00774,Personal Loan,Electronic City,Medium,23-02-2025 13:00,39:13.4,Disbursed,502800,3.86,1,94.65
+LN00775,Personal Loan,Electronic City,Low,24-08-2025 14:00,38:37.6,Rejected,962127,2.48,0,79.64
+LN00776,Personal Loan,Hubballi,Medium,10-08-2025 12:00,05:18.7,Withdrawn,1040688,3.85,1,53.09
+LN00777,Personal Loan,Hubballi,Low,08-09-2025 10:00,24:31.6,Disbursed,2473320,2.77,1,51.41
+LN00778,Business Loan,Mysuru,Medium,09-11-2025 09:00,31:22.0,Disbursed,2038038,2.99,0,122.52
+LN00779,Personal Loan,Mysuru,Medium,22-04-2025 09:00,54:10.8,Disbursed,693032,4.3,2,119.9
+LN00780,Personal Loan,Bengaluru Central,Low,12-09-2025 11:00,23:59.2,Disbursed,1780947,3.33,1,112.4
+LN00781,Home Loan,Electronic City,Low,30-10-2025 16:00,35:49.2,Disbursed,1899280,2.62,0,102.6
+LN00782,Vehicle Loan,Bengaluru Central,High,26-07-2025 13:00,08:57.9,Disbursed,1822851,6.7,3,203.15
+LN00783,Vehicle Loan,Bengaluru Central,Low,17-08-2025 09:00,55:35.9,Disbursed,581065,2.55,1,72.93
+LN00784,Personal Loan,Hubballi,Low,07-12-2025 11:00,51:53.7,Disbursed,2232293,3.02,0,45.86
+LN00785,Personal Loan,Whitefield,Low,07-03-2025 14:00,17:08.7,Disbursed,2296152,2.9,1,76.29
+LN00786,Personal Loan,Whitefield,Low,16-03-2025 12:00,28:48.8,Disbursed,1602158,2.38,0,54.48
+LN00787,Home Loan,Hubballi,Low,13-04-2025 14:00,29:37.0,Disbursed,2435361,3.16,1,71.49
+LN00788,Personal Loan,Electronic City,Medium,11-07-2025 13:00,04:28.7,Disbursed,1214089,3.66,2,66.07
+LN00789,Business Loan,Bengaluru Central,Medium,09-09-2025 11:00,16:34.3,Withdrawn,1746381,3.77,1,165.28
+LN00790,Business Loan,Whitefield,Low,14-08-2025 14:00,08:28.7,Disbursed,697167,3.82,2,91.14
+LN00791,Personal Loan,Bengaluru Central,Low,21-10-2025 08:00,34:18.2,Disbursed,2293645,3.67,1,59.57
+LN00792,Personal Loan,Whitefield,Low,02-11-2025 08:00,23:04.0,Disbursed,1003863,3.32,1,40.38
+LN00793,Home Loan,Bengaluru Central,Low,08-04-2025 16:00,20:36.2,Disbursed,76920,2.26,0,126.34
+LN00794,Business Loan,Hubballi,Medium,04-12-2025 13:00,28:48.3,Disbursed,1011809,3.94,1,118.48
+LN00795,Vehicle Loan,Bengaluru Central,Medium,13-10-2025 11:00,36:52.9,Rejected,2169540,4.35,2,55.61
+LN00796,Personal Loan,Mysuru,High,01-12-2025 14:00,48:57.1,Withdrawn,1128489,5.66,2,99.82
+LN00797,Business Loan,Mysuru,Low,13-12-2025 16:00,53:12.4,Disbursed,265147,3.2,0,111.89
+LN00798,Personal Loan,Electronic City,Medium,04-11-2025 14:00,35:38.9,Disbursed,241711,5.45,2,83.59
+LN00799,Vehicle Loan,Hubballi,High,06-09-2025 13:00,46:50.9,Disbursed,2191389,6.15,1,139.78
+LN00800,Personal Loan,Electronic City,Low,15-06-2025 10:00,43:39.2,Disbursed,1446968,2.99,0,31.73
+LN00801,Personal Loan,Mysuru,Low,01-12-2025 09:00,16:04.8,Disbursed,742443,2.37,0,49.27
+LN00802,Personal Loan,Mysuru,Low,30-01-2025 09:00,13:49.5,Disbursed,2407928,2.19,0,98.23
+LN00803,Business Loan,Mysuru,Low,04-09-2025 16:00,46:06.3,Disbursed,352737,2.21,0,83.77
+LN00804,Personal Loan,Electronic City,Low,16-04-2025 11:00,10:08.8,Disbursed,1690953,2.47,0,79.17
+LN00805,Business Loan,Mysuru,High,20-02-2025 12:00,28:33.2,Disbursed,454986,7.24,4,208.48
+LN00806,Personal Loan,Mysuru,High,22-03-2025 09:00,55:48.2,Disbursed,1665275,7.17,2,135.93
+LN00807,Personal Loan,Hubballi,Medium,13-05-2025 11:00,07:52.9,Disbursed,1919203,4.66,2,105.13
+LN00808,Personal Loan,Hubballi,Medium,12-10-2025 13:00,15:31.9,Disbursed,1584186,3.09,0,106.26
+LN00809,Personal Loan,Electronic City,Low,18-05-2025 10:00,39:38.8,Rejected,2184162,3.75,1,46.66
+LN00810,Personal Loan,Mysuru,Medium,03-07-2025 16:00,01:44.0,Disbursed,1095827,5.16,3,77.03
+LN00811,Personal Loan,Whitefield,Low,26-11-2025 10:00,53:12.8,Withdrawn,75809,2.2,1,78.89
+LN00812,Personal Loan,Hubballi,Low,30-09-2025 12:00,59:01.1,Disbursed,1964971,2.95,1,59.98
+LN00813,Personal Loan,Electronic City,Low,06-12-2025 15:00,16:43.2,Disbursed,1289524,2.8,1,61.28
+LN00814,Home Loan,Hubballi,Low,10-03-2025 09:00,20:09.5,Disbursed,799578,2.84,0,71.34
+LN00815,Personal Loan,Bengaluru Central,Medium,03-02-2025 09:00,37:44.3,Disbursed,2283733,2.98,0,61.63
+LN00816,Home Loan,Mysuru,Medium,19-09-2025 12:00,49:24.8,Rejected,727906,4.81,2,96.82
+LN00817,Business Loan,Bengaluru Central,Low,22-02-2025 10:00,11:21.2,Rejected,2219972,3.09,0,103.19
+LN00818,Personal Loan,Whitefield,Medium,24-07-2025 09:00,30:26.0,Rejected,435210,2.72,0,71.51
+LN00819,Vehicle Loan,Whitefield,High,06-05-2025 11:00,24:41.2,Rejected,1007859,6.5,4,204.41
+LN00820,Personal Loan,Bengaluru Central,High,23-08-2025 12:00,08:09.9,Disbursed,215927,6.18,1,107.14
+LN00821,Personal Loan,Whitefield,Medium,12-02-2025 10:00,06:23.5,Withdrawn,1684389,3.11,0,135.11
+LN00822,Vehicle Loan,Hubballi,Low,28-08-2025 12:00,03:59.6,Disbursed,1580602,3.17,0,55.07
+LN00823,Vehicle Loan,Whitefield,Medium,21-04-2025 14:00,31:25.4,Disbursed,1481285,5.01,2,105.52
+LN00824,Personal Loan,Hubballi,Low,06-09-2025 08:00,45:15.3,Withdrawn,1889988,3.77,2,59.75
+LN00825,Vehicle Loan,Electronic City,Medium,31-05-2025 15:00,45:45.3,Disbursed,1543990,5.35,3,116.76
+LN00826,Personal Loan,Whitefield,Low,02-07-2025 09:00,06:41.2,Disbursed,1527403,3.24,1,42.11
+LN00827,Personal Loan,Whitefield,Medium,02-12-2025 12:00,48:17.0,Disbursed,160942,4.05,2,48.8
+LN00828,Vehicle Loan,Hubballi,Medium,05-04-2025 13:00,29:46.4,Disbursed,2144100,4.18,2,123.5
+LN00829,Personal Loan,Electronic City,Medium,08-01-2025 11:00,27:41.9,Rejected,1584105,5.31,2,137.46
+LN00830,Vehicle Loan,Bengaluru Central,Medium,26-12-2025 16:00,57:21.6,Disbursed,891551,4.05,1,56.96
+LN00831,Vehicle Loan,Bengaluru Central,Medium,03-07-2025 10:00,44:35.2,Disbursed,2250306,2.97,0,74.74
+LN00832,Home Loan,Hubballi,Medium,08-10-2025 09:00,21:42.3,Disbursed,2069879,4.02,3,94.36
+LN00833,Personal Loan,Bengaluru Central,Medium,14-07-2025 11:00,13:54.1,Withdrawn,1138878,3.24,0,31.23
+LN00834,Personal Loan,Whitefield,Low,18-12-2025 08:00,34:13.9,Rejected,1840245,2.9,0,30.57
+LN00835,Home Loan,Whitefield,Low,14-07-2025 08:00,06:34.6,Disbursed,990983,3.28,2,106.11
+LN00836,Home Loan,Whitefield,High,04-06-2025 14:00,30:30.7,Rejected,1734620,6.36,1,167.51
+LN00837,Personal Loan,Whitefield,Medium,03-04-2025 15:00,19:35.3,Disbursed,1534769,5.85,4,103.33
+LN00838,Vehicle Loan,Electronic City,Low,09-06-2025 11:00,10:28.8,Rejected,1893367,2.43,0,83.17
+LN00839,Vehicle Loan,Electronic City,Low,02-03-2025 12:00,56:04.3,Disbursed,702965,2.72,1,69.93
+LN00840,Personal Loan,Whitefield,High,02-05-2025 10:00,53:14.1,Disbursed,445269,6.33,2,115.89
+LN00841,Personal Loan,Bengaluru Central,Medium,20-02-2025 16:00,05:01.7,Disbursed,2170270,2.94,0,60.08
+LN00842,Vehicle Loan,Bengaluru Central,Medium,04-10-2025 12:00,42:49.7,Disbursed,2056632,3.18,0,98.71
+LN00843,Vehicle Loan,Whitefield,Low,05-01-2025 15:00,55:02.8,Disbursed,908045,2.72,0,73.92
+LN00844,Vehicle Loan,Electronic City,Low,02-04-2025 14:00,17:19.3,Disbursed,906688,2.9,0,58.29
+LN00845,Home Loan,Mysuru,Low,19-06-2025 14:00,36:07.6,Disbursed,839681,3.36,1,76.6
+LN00846,Vehicle Loan,Hubballi,Low,13-11-2025 13:00,14:53.9,Rejected,1677085,3.59,1,41.25
+LN00847,Home Loan,Bengaluru Central,Low,22-01-2025 16:00,29:48.1,Rejected,1075959,2.87,1,108.5
+LN00848,Personal Loan,Whitefield,Medium,22-11-2025 11:00,00:36.3,Disbursed,712865,3.93,1,87.01
+LN00849,Personal Loan,Bengaluru Central,Medium,01-01-2025 12:00,04:21.0,Disbursed,1133792,3.58,0,115.07
+LN00850,Vehicle Loan,Mysuru,High,13-05-2025 10:00,24:04.6,Disbursed,2267738,6.28,3,131.4
+LN00851,Personal Loan,Whitefield,Medium,21-08-2025 15:00,34:41.9,Disbursed,1766398,3.28,1,79.58
+LN00852,Personal Loan,Whitefield,Low,12-01-2025 14:00,51:03.1,Disbursed,901666,2.04,0,55.85
+LN00853,Vehicle Loan,Bengaluru Central,High,12-12-2025 12:00,42:22.2,Disbursed,1459456,7.19,3,157.71
+LN00854,Business Loan,Electronic City,Medium,15-02-2025 15:00,49:17.1,Rejected,1482153,3.77,1,113.82
+LN00855,Home Loan,Mysuru,Low,03-02-2025 11:00,45:36.5,Disbursed,1352020,3.15,1,109.76
+LN00856,Home Loan,Hubballi,Low,19-03-2025 10:00,06:04.8,Disbursed,2057648,2.9,0,81.1
+LN00857,Personal Loan,Whitefield,Low,06-08-2025 11:00,15:57.9,Disbursed,2062333,2.73,0,75.27
+LN00858,Personal Loan,Whitefield,Low,28-10-2025 13:00,13:26.1,Withdrawn,1769533,2.71,1,86.22
+LN00859,Personal Loan,Bengaluru Central,Medium,14-03-2025 09:00,35:01.2,Disbursed,1170269,3.78,1,129.58
+LN00860,Vehicle Loan,Mysuru,Low,09-10-2025 11:00,16:57.1,Disbursed,2449335,3.85,2,106.28
+LN00861,Vehicle Loan,Electronic City,Medium,06-09-2025 14:00,32:02.2,Disbursed,2015695,4.18,2,91.53
+LN00862,Vehicle Loan,Whitefield,High,16-02-2025 09:00,57:04.8,Disbursed,1115060,4.47,0,101.95
+LN00863,Business Loan,Whitefield,High,01-05-2025 08:00,35:24.4,Disbursed,1233839,8.83,5,226.59
+LN00864,Personal Loan,Whitefield,Medium,02-08-2025 14:00,01:55.9,Disbursed,2241525,3.92,1,76.03
+LN00865,Home Loan,Hubballi,Medium,27-08-2025 10:00,17:30.5,Disbursed,958264,4.39,1,76.29
+LN00866,Vehicle Loan,Electronic City,Medium,25-02-2025 15:00,51:39.1,Disbursed,2168907,3.86,2,96.86
+LN00867,Personal Loan,Whitefield,High,16-12-2025 09:00,10:57.1,Disbursed,1910834,5.83,1,153.18
+LN00868,Personal Loan,Hubballi,High,17-04-2025 12:00,07:57.3,Disbursed,2302173,6.43,3,187.13
+LN00869,Personal Loan,Bengaluru Central,Low,15-11-2025 14:00,45:50.7,Disbursed,1766986,2.44,0,90.76
+LN00870,Vehicle Loan,Hubballi,Low,17-02-2025 14:00,04:04.8,Disbursed,160530,2.07,0,43.07
+LN00871,Home Loan,Whitefield,Low,02-03-2025 10:00,05:03.4,Disbursed,912351,3.01,0,24.08
+LN00872,Personal Loan,Mysuru,Medium,03-12-2025 12:00,06:36.0,Disbursed,450509,5.17,1,139.11
+LN00873,Personal Loan,Electronic City,High,26-01-2025 09:00,09:20.7,Disbursed,1061022,5.88,1,115.16
+LN00874,Business Loan,Bengaluru Central,Low,19-10-2025 13:00,22:38.9,Withdrawn,250650,2.87,1,122.38
+LN00875,Vehicle Loan,Bengaluru Central,Low,14-09-2025 09:00,02:06.9,Rejected,61984,2.75,0,43.04
+LN00876,Home Loan,Bengaluru Central,Low,08-01-2025 08:00,31:07.3,Disbursed,1685104,3.05,1,105.52
+LN00877,Business Loan,Whitefield,High,23-04-2025 10:00,01:59.6,Disbursed,1613215,6.65,4,229.03
+LN00878,Vehicle Loan,Whitefield,Medium,21-12-2025 15:00,15:25.1,Disbursed,2302794,3.11,0,182.26
+LN00879,Personal Loan,Mysuru,Low,10-09-2025 09:00,57:13.7,Disbursed,506501,2.84,0,52.95
+LN00880,Home Loan,Bengaluru Central,Low,29-06-2025 10:00,08:35.1,Disbursed,2124694,2.22,0,82.14
+LN00881,Vehicle Loan,Bengaluru Central,Medium,26-07-2025 08:00,02:20.4,Disbursed,619066,4.19,2,104.04
+LN00882,Business Loan,Electronic City,Medium,30-10-2025 12:00,05:45.9,Disbursed,815880,5.36,3,112.1
+LN00883,Personal Loan,Bengaluru Central,Medium,07-05-2025 09:00,19:44.1,Disbursed,1636546,4.47,2,93.33
+LN00884,Business Loan,Electronic City,Medium,25-02-2025 12:00,52:34.3,Rejected,1596390,5.9,4,156.88
+LN00885,Vehicle Loan,Bengaluru Central,High,02-08-2025 09:00,15:00.3,Disbursed,122586,7.08,3,130.25
+LN00886,Business Loan,Whitefield,Low,14-01-2025 12:00,21:52.2,Rejected,160946,3.95,2,82.36
+LN00887,Personal Loan,Mysuru,Low,28-01-2025 15:00,48:29.6,Disbursed,1353083,2.65,0,55.81
+LN00888,Personal Loan,Electronic City,Medium,19-03-2025 09:00,50:50.5,Rejected,2398466,3.32,1,84.85
+LN00889,Vehicle Loan,Whitefield,Medium,04-08-2025 15:00,03:16.0,Disbursed,56326,3.94,0,60.05
+LN00890,Business Loan,Mysuru,High,31-12-2025 10:00,30:58.2,Disbursed,1261531,6.61,2,88.52
+LN00891,Personal Loan,Whitefield,Medium,03-06-2025 13:00,39:06.4,Disbursed,2150665,3.2,0,50.65
+LN00892,Personal Loan,Hubballi,Medium,14-01-2025 12:00,04:46.2,Disbursed,679050,4.05,2,134.08
+LN00893,Home Loan,Whitefield,Medium,06-07-2025 16:00,47:31.8,Disbursed,1960632,3.89,0,50.79
+LN00894,Home Loan,Hubballi,Low,08-11-2025 16:00,38:52.2,Disbursed,1227789,2.61,0,95.65
+LN00895,Personal Loan,Hubballi,Low,07-01-2025 09:00,35:32.1,Disbursed,516492,2.4,0,103.59
+LN00896,Personal Loan,Electronic City,Medium,03-01-2025 13:00,58:26.6,Disbursed,2143709,3.74,1,71.97
+LN00897,Personal Loan,Whitefield,Low,21-04-2025 16:00,25:24.6,Disbursed,505181,3.13,1,60.42
+LN00898,Vehicle Loan,Electronic City,Low,26-08-2025 10:00,39:00.8,Disbursed,1559090,2.47,0,40.65
+LN00899,Personal Loan,Mysuru,High,29-12-2025 13:00,43:05.6,Disbursed,199659,4.95,3,152.72
+LN00900,Personal Loan,Mysuru,Low,27-08-2025 15:00,58:42.3,Disbursed,1526664,2.28,0,59.98
+LN00901,Home Loan,Bengaluru Central,Medium,01-10-2025 10:00,40:50.9,Disbursed,1645704,4.04,2,120.68
+LN00902,Vehicle Loan,Hubballi,Low,21-10-2025 16:00,08:13.7,Withdrawn,2196309,2.58,1,71.14
+LN00903,Personal Loan,Electronic City,Low,15-08-2025 08:00,11:23.8,Disbursed,1873172,2.3,0,49.19
+LN00904,Vehicle Loan,Electronic City,Low,15-01-2025 13:00,49:51.7,Disbursed,1668105,2.84,0,74.83
+LN00905,Home Loan,Hubballi,High,11-07-2025 09:00,30:56.7,Rejected,2120653,6.83,3,141.52
+LN00906,Personal Loan,Electronic City,Low,29-04-2025 09:00,27:15.6,Rejected,1262921,2.59,0,86.45
+LN00907,Business Loan,Mysuru,High,28-01-2025 13:00,10:46.3,Disbursed,1298463,5.65,2,152.18
+LN00908,Personal Loan,Electronic City,Medium,21-07-2025 13:00,28:24.7,Disbursed,2303533,2.63,0,66.47
+LN00909,Vehicle Loan,Hubballi,Medium,08-02-2025 12:00,49:22.4,Disbursed,961607,4.94,1,44.82
+LN00910,Business Loan,Mysuru,Low,30-09-2025 11:00,58:08.7,Disbursed,399503,2.73,0,60.97
+LN00911,Personal Loan,Whitefield,Low,19-08-2025 13:00,34:53.6,Disbursed,1797265,2.83,0,53.58
+LN00912,Vehicle Loan,Bengaluru Central,High,27-03-2025 08:00,15:03.8,Disbursed,910297,8.47,4,208.25
+LN00913,Business Loan,Hubballi,Low,06-05-2025 09:00,35:24.4,Disbursed,2347238,3.38,1,95.59
+LN00914,Personal Loan,Whitefield,Medium,27-10-2025 11:00,56:42.0,Disbursed,1740541,4.68,2,87.95
+LN00915,Home Loan,Bengaluru Central,Low,25-01-2025 08:00,37:41.5,Disbursed,107969,2.55,0,137.63
+LN00916,Business Loan,Whitefield,High,25-05-2025 09:00,32:31.0,Disbursed,1349752,6.34,4,216.54
+LN00917,Personal Loan,Whitefield,Medium,13-01-2025 12:00,39:49.0,Disbursed,2248811,3.54,0,92.66
+LN00918,Business Loan,Hubballi,Low,31-07-2025 16:00,13:45.4,Rejected,1420483,3.58,1,107.23
+LN00919,Vehicle Loan,Mysuru,Medium,25-01-2025 14:00,42:15.6,Disbursed,1842927,3.47,0,64.7
+LN00920,Vehicle Loan,Bengaluru Central,Low,09-03-2025 13:00,42:18.3,Disbursed,1265800,2.51,0,64.71
+LN00921,Personal Loan,Electronic City,Low,08-03-2025 15:00,43:36.3,Disbursed,540206,1.94,0,34.73
+LN00922,Personal Loan,Hubballi,Medium,21-08-2025 08:00,29:21.9,Disbursed,2301964,4.76,3,72.49
+LN00923,Home Loan,Electronic City,High,19-04-2025 13:00,59:44.1,Disbursed,1541234,6.89,3,265
+LN00924,Personal Loan,Mysuru,Medium,26-05-2025 10:00,42:53.0,Rejected,132859,3.38,1,82.71
+LN00925,Vehicle Loan,Whitefield,Medium,21-04-2025 16:00,37:48.1,Disbursed,195164,3.5,0,57.63
+LN00926,Vehicle Loan,Electronic City,Medium,16-08-2025 08:00,54:47.6,Disbursed,1506632,3.8,1,83.91
+LN00927,Business Loan,Electronic City,Medium,21-04-2025 16:00,37:40.3,Rejected,1227089,3.27,1,80.63
+LN00928,Vehicle Loan,Bengaluru Central,Low,03-02-2025 09:00,57:42.9,Disbursed,1246368,2.83,0,61.96
+LN00929,Personal Loan,Mysuru,High,21-04-2025 14:00,08:18.1,Disbursed,51282,6.15,3,135.14
+LN00930,Home Loan,Hubballi,Low,21-09-2025 09:00,45:30.5,Disbursed,286702,3.07,0,150.76
+LN00931,Personal Loan,Mysuru,Low,24-08-2025 15:00,52:25.1,Rejected,1974396,2.49,0,31.87
+LN00932,Personal Loan,Electronic City,Low,24-03-2025 12:00,22:43.1,Disbursed,650954,2.13,0,34.38
+LN00933,Home Loan,Electronic City,High,11-02-2025 10:00,01:03.6,Disbursed,368351,6.39,2,122.02
+LN00934,Home Loan,Bengaluru Central,Medium,11-04-2025 15:00,35:46.0,Disbursed,954952,3.67,0,171.6
+LN00935,Home Loan,Mysuru,Medium,06-01-2025 13:00,54:05.7,Disbursed,2496727,5.18,3,146.9
+LN00936,Business Loan,Hubballi,Medium,29-06-2025 16:00,55:24.6,Rejected,2102849,4.27,1,74.92
+LN00937,Personal Loan,Whitefield,Medium,09-10-2025 12:00,34:49.4,Disbursed,2381125,2.95,0,128.58
+LN00938,Personal Loan,Whitefield,Medium,16-11-2025 16:00,20:59.0,Withdrawn,1585070,3.69,3,98.35
+LN00939,Vehicle Loan,Bengaluru Central,Low,14-08-2025 12:00,55:01.6,Withdrawn,1761418,2.79,0,63.92
+LN00940,Home Loan,Mysuru,Medium,11-11-2025 11:00,38:20.7,Disbursed,2034157,5.56,3,166.64
+LN00941,Vehicle Loan,Bengaluru Central,Medium,31-12-2025 15:00,51:17.9,Disbursed,276868,2.96,0,45.85
+LN00942,Personal Loan,Mysuru,Medium,17-08-2025 16:00,47:40.5,Disbursed,1217370,5.36,3,99.79
+LN00943,Home Loan,Hubballi,Low,16-10-2025 16:00,13:59.6,Disbursed,2262836,2.65,0,57.23
+LN00944,Home Loan,Hubballi,High,30-05-2025 09:00,16:48.3,Disbursed,590962,7.97,5,212.28
+LN00945,Vehicle Loan,Electronic City,Medium,04-10-2025 13:00,49:57.4,Disbursed,1624171,3.04,1,172.83
+LN00946,Personal Loan,Mysuru,Low,17-07-2025 15:00,32:17.6,Disbursed,2220213,3.98,1,60.54
+LN00947,Personal Loan,Whitefield,Low,11-03-2025 15:00,01:17.3,Disbursed,2393355,2.87,0,39.02
+LN00948,Business Loan,Hubballi,Medium,22-04-2025 16:00,19:55.1,Disbursed,1637293,4.24,2,73.33
+LN00949,Business Loan,Electronic City,Low,04-01-2025 09:00,20:54.3,Rejected,1598945,3.32,2,164.35
+LN00950,Home Loan,Mysuru,High,16-12-2025 14:00,39:28.9,Disbursed,1076612,6.21,3,123.66
+LN00951,Business Loan,Bengaluru Central,Low,27-11-2025 16:00,17:42.1,Withdrawn,2461321,2.73,0,91.3
+LN00952,Personal Loan,Whitefield,Low,14-11-2025 08:00,32:58.1,Disbursed,2302550,2.29,0,80.55
+LN00953,Home Loan,Electronic City,Low,16-12-2025 15:00,52:31.2,Disbursed,2024047,2.99,0,61.88
+LN00954,Business Loan,Mysuru,Low,05-04-2025 16:00,52:51.2,Disbursed,2230095,3.07,0,137.88
+LN00955,Vehicle Loan,Whitefield,Medium,01-06-2025 11:00,25:14.4,Disbursed,449886,3.78,1,91.42
+LN00956,Business Loan,Mysuru,Low,07-11-2025 12:00,55:34.4,Rejected,1683013,3.57,1,77.93
+LN00957,Business Loan,Mysuru,Low,17-05-2025 15:00,14:26.3,Disbursed,299157,3.15,1,74.24
+LN00958,Personal Loan,Hubballi,Low,04-09-2025 13:00,01:08.0,Disbursed,1955284,2.56,0,47.02
+LN00959,Home Loan,Mysuru,Low,31-08-2025 16:00,57:38.9,Disbursed,88275,3.35,1,110.96
+LN00960,Home Loan,Electronic City,Low,31-01-2025 08:00,01:56.1,Disbursed,1717982,3.23,1,90.03
+LN00961,Business Loan,Whitefield,Medium,09-02-2025 12:00,47:59.7,Rejected,2427055,2.76,1,132.8
+LN00962,Home Loan,Electronic City,Medium,17-08-2025 16:00,12:20.7,Withdrawn,1173400,3.81,1,129.21
+LN00963,Vehicle Loan,Bengaluru Central,Low,05-02-2025 16:00,49:56.8,Disbursed,1659443,1.91,0,59.83
+LN00964,Personal Loan,Electronic City,Low,11-08-2025 15:00,42:28.1,Disbursed,403985,2.67,0,53.71
+LN00965,Personal Loan,Hubballi,Medium,06-01-2025 15:00,04:14.0,Disbursed,998852,4.71,2,133.07
+LN00966,Business Loan,Hubballi,Medium,18-11-2025 09:00,55:28.4,Withdrawn,2243799,3.02,0,89.92
+LN00967,Personal Loan,Bengaluru Central,Low,08-08-2025 16:00,34:22.8,Disbursed,173739,2.44,0,45.57
+LN00968,Vehicle Loan,Whitefield,Medium,16-03-2025 15:00,27:18.4,Disbursed,1547738,4.91,2,133.46
+LN00969,Vehicle Loan,Bengaluru Central,Medium,04-01-2025 14:00,58:48.7,Disbursed,1875069,4.41,2,133.98
+LN00970,Personal Loan,Electronic City,Medium,01-12-2025 16:00,00:16.9,Rejected,2000126,3.83,2,90
+LN00971,Vehicle Loan,Mysuru,High,14-05-2025 12:00,03:11.8,Disbursed,1531796,6.51,2,214.05
+LN00972,Vehicle Loan,Mysuru,Low,28-04-2025 11:00,05:17.9,Disbursed,1236151,2.27,0,64.09
+LN00973,Personal Loan,Hubballi,Low,04-04-2025 08:00,14:50.1,Disbursed,2266119,2.73,0,48.25
+LN00974,Personal Loan,Whitefield,Medium,03-03-2025 08:00,33:56.1,Disbursed,616589,3.3,0,72.57
+LN00975,Home Loan,Hubballi,High,13-07-2025 09:00,35:28.9,Disbursed,1434692,6.76,2,260.59
+LN00976,Vehicle Loan,Hubballi,Low,01-12-2025 08:00,17:12.8,Disbursed,318200,2.47,0,49.29
+LN00977,Vehicle Loan,Whitefield,Medium,22-07-2025 12:00,45:23.5,Rejected,755665,3.6,1,87.76
+LN00978,Business Loan,Electronic City,Low,26-01-2025 13:00,03:06.4,Withdrawn,2024318,3.1,2,114.05
+LN00979,Vehicle Loan,Mysuru,Low,22-06-2025 14:00,44:37.1,Disbursed,2241983,2.38,0,53.74
+LN00980,Vehicle Loan,Electronic City,Medium,27-10-2025 13:00,57:25.8,Disbursed,175721,4.86,3,104.96
+LN00981,Personal Loan,Hubballi,Medium,13-05-2025 12:00,37:28.4,Disbursed,1101912,4.66,3,94.62
+LN00982,Vehicle Loan,Hubballi,Medium,22-11-2025 14:00,45:29.2,Disbursed,2339055,3.54,2,124.76
+LN00983,Vehicle Loan,Electronic City,Medium,28-04-2025 08:00,24:50.4,Disbursed,2108914,2.71,0,54.41
+LN00984,Personal Loan,Whitefield,Low,20-11-2025 14:00,25:54.5,Rejected,1148377,2.9,2,78.43
+LN00985,Home Loan,Whitefield,Medium,02-10-2025 08:00,00:01.7,Disbursed,503003,3.06,0,66
+LN00986,Personal Loan,Electronic City,Medium,31-07-2025 13:00,44:04.7,Withdrawn,1818771,3.33,0,65.73
+LN00987,Personal Loan,Electronic City,Low,13-08-2025 15:00,57:05.0,Disbursed,2018270,2.72,1,74.95
+LN00988,Personal Loan,Whitefield,Low,20-01-2025 14:00,34:55.3,Disbursed,211653,2.72,1,100.58
+LN00989,Vehicle Loan,Mysuru,Low,23-04-2025 12:00,03:04.7,Disbursed,1449816,2.74,1,83.05
+LN00990,Business Loan,Whitefield,Low,20-05-2025 10:00,16:34.4,Disbursed,1645773,2.6,0,98.28
+LN00991,Personal Loan,Hubballi,Low,16-02-2025 08:00,41:11.2,Disbursed,247300,2.57,0,55.69
+LN00992,Home Loan,Bengaluru Central,Medium,01-01-2025 12:00,50:11.9,Disbursed,2250038,3.72,0,140.84
+LN00993,Home Loan,Hubballi,Low,31-03-2025 12:00,51:26.6,Disbursed,2469395,1.95,0,75.86
+LN00994,Business Loan,Electronic City,Low,22-05-2025 08:00,26:27.5,Disbursed,2316661,3.15,1,59.44
+LN00995,Personal Loan,Whitefield,Low,16-11-2025 12:00,42:37.9,Rejected,186774,2.98,0,27.71
+LN00996,Personal Loan,Mysuru,Medium,07-02-2025 10:00,08:12.2,Disbursed,1332268,3.65,2,94.14
+LN00997,Vehicle Loan,Whitefield,Medium,20-10-2025 12:00,09:29.8,Disbursed,72974,3.99,0,109.16
+LN00998,Personal Loan,Whitefield,Medium,19-05-2025 12:00,13:01.4,Disbursed,1120410,3.67,0,94.22
+LN00999,Personal Loan,Mysuru,Low,22-12-2025 13:00,03:15.8,Disbursed,637715,2.66,0,80.05
+LN01000,Personal Loan,Bengaluru Central,Low,29-11-2025 15:00,38:53.6,Disbursed,2191023,2.82,1,40.65
+LN01001,Vehicle Loan,Bengaluru Central,Low,16-09-2025 14:00,35:51.8,Disbursed,2183174,2.9,0,56.6
+LN01002,Home Loan,Mysuru,Low,10-06-2025 16:00,09:31.9,Disbursed,1199671,3.03,1,82.16
+LN01003,Home Loan,Mysuru,Low,27-06-2025 11:00,34:41.3,Withdrawn,357314,3.14,0,91.58
+LN01004,Home Loan,Electronic City,Low,10-01-2025 08:00,08:27.4,Disbursed,1701109,2.74,1,77.14
+LN01005,Home Loan,Whitefield,High,18-09-2025 08:00,29:57.0,Disbursed,1081907,4.59,1,213.5
+LN01006,Vehicle Loan,Hubballi,Low,18-05-2025 12:00,21:40.6,Disbursed,406721,3.1,1,89.36
+LN01007,Personal Loan,Electronic City,Medium,21-06-2025 10:00,14:00.7,Disbursed,2140167,3.91,1,87.23
+LN01008,Vehicle Loan,Mysuru,Low,13-01-2025 14:00,22:14.9,Disbursed,2038424,1.97,0,110.37
+LN01009,Personal Loan,Bengaluru Central,Medium,17-06-2025 14:00,25:37.7,Disbursed,1272855,4.78,2,126.43
+LN01010,Personal Loan,Bengaluru Central,Low,10-05-2025 11:00,31:39.0,Disbursed,505868,2.09,0,58.53
+LN01011,Personal Loan,Mysuru,Low,25-03-2025 14:00,49:42.6,Disbursed,1067261,2.47,0,94.83
+LN01012,Home Loan,Bengaluru Central,Low,17-11-2025 09:00,05:09.4,Rejected,547269,2.48,0,178.09
+LN01013,Personal Loan,Hubballi,Medium,15-11-2025 12:00,17:36.1,Disbursed,2447548,3.01,0,59.29
+LN01014,Personal Loan,Whitefield,Medium,11-04-2025 12:00,23:15.0,Disbursed,537442,3.24,0,51.39
+LN01015,Personal Loan,Bengaluru Central,Medium,25-11-2025 10:00,25:28.7,Disbursed,128672,3.56,1,94.42
+LN01016,Home Loan,Hubballi,Low,30-09-2025 09:00,25:53.0,Disbursed,2197059,2.13,0,66.43
+LN01017,Personal Loan,Electronic City,Medium,22-09-2025 16:00,34:43.8,Disbursed,689814,4.07,3,97.58
+LN01018,Vehicle Loan,Electronic City,Low,07-02-2025 11:00,06:57.3,Disbursed,2169853,2.46,0,85.12
+LN01019,Business Loan,Whitefield,Medium,04-04-2025 15:00,38:42.3,Disbursed,519603,4.75,4,185.65
+LN01020,Business Loan,Mysuru,Medium,05-04-2025 16:00,17:05.0,Disbursed,2113948,4.53,1,148.28
+LN01021,Personal Loan,Bengaluru Central,Low,01-11-2025 09:00,03:35.8,Disbursed,1890072,2.72,0,79.06
+LN01022,Personal Loan,Electronic City,Medium,10-03-2025 11:00,36:42.3,Disbursed,1451224,3.18,1,73.61
+LN01023,Personal Loan,Electronic City,Medium,14-11-2025 10:00,59:12.7,Disbursed,1263772,3.25,0,103.99
+LN01024,Vehicle Loan,Bengaluru Central,Low,24-08-2025 12:00,32:03.0,Rejected,1858070,2.2,0,72.53
+LN01025,Business Loan,Hubballi,Medium,30-11-2025 12:00,42:11.0,Withdrawn,1072608,2.99,0,102.7
+LN01026,Business Loan,Mysuru,Medium,17-05-2025 15:00,12:57.2,Disbursed,2315812,3.63,1,72.22
+LN01027,Vehicle Loan,Mysuru,Medium,17-03-2025 10:00,50:08.0,Disbursed,1092685,3.24,0,83.84
+LN01028,Personal Loan,Mysuru,Low,04-02-2025 14:00,34:54.0,Disbursed,806570,2.98,1,66.58
+LN01029,Business Loan,Electronic City,High,01-01-2025 10:00,28:03.1,Withdrawn,2449426,5.99,0,193.47
+LN01030,Business Loan,Electronic City,Medium,23-10-2025 10:00,27:32.5,Disbursed,1662106,4.97,4,154.46
+LN01031,Personal Loan,Electronic City,Medium,16-11-2025 14:00,21:46.3,Rejected,1907872,4.56,1,110.36
+LN01032,Personal Loan,Electronic City,Low,01-03-2025 12:00,26:44.5,Rejected,1122576,2.89,0,54.45
+LN01033,Personal Loan,Electronic City,Medium,16-11-2025 15:00,10:44.6,Disbursed,1904591,4.98,2,121.18
+LN01034,Personal Loan,Mysuru,High,15-12-2025 10:00,18:51.1,Rejected,1303750,7.49,4,166.31
+LN01035,Home Loan,Bengaluru Central,Medium,24-11-2025 11:00,06:55.4,Rejected,1357560,5.22,4,282.12
+LN01036,Personal Loan,Whitefield,Medium,24-09-2025 13:00,15:35.8,Disbursed,2463357,4.12,1,104.26
+LN01037,Home Loan,Mysuru,High,27-12-2025 13:00,55:31.5,Disbursed,2290185,8.11,4,190.93
+LN01038,Personal Loan,Bengaluru Central,Low,17-08-2025 09:00,38:34.9,Disbursed,2386087,2.12,0,51.64
+LN01039,Home Loan,Electronic City,Medium,27-09-2025 09:00,43:32.7,Disbursed,194322,3.3,1,106.73
+LN01040,Business Loan,Mysuru,Low,12-11-2025 09:00,28:37.4,Disbursed,1803360,2.72,0,52.48
+LN01041,Personal Loan,Electronic City,Medium,13-10-2025 13:00,54:17.6,Withdrawn,1449314,3.39,0,91.9
+LN01042,Vehicle Loan,Hubballi,Medium,18-10-2025 15:00,28:42.4,Disbursed,339711,4.79,3,136.48
+LN01043,Vehicle Loan,Whitefield,Medium,01-08-2025 10:00,09:22.0,Disbursed,264997,3.46,0,59.16
+LN01044,Personal Loan,Hubballi,Medium,14-06-2025 13:00,54:31.6,Disbursed,2317064,4.04,1,128.91
+LN01045,Business Loan,Bengaluru Central,Medium,05-01-2025 09:00,55:17.4,Disbursed,1641885,4.03,1,100.92
+LN01046,Vehicle Loan,Whitefield,Medium,05-12-2025 16:00,35:38.2,Disbursed,387268,3.8,2,122.59
+LN01047,Home Loan,Bengaluru Central,Low,19-03-2025 10:00,35:37.6,Disbursed,200786,2.39,0,161.59
+LN01048,Vehicle Loan,Mysuru,Low,03-03-2025 11:00,40:42.4,Rejected,391143,3.59,1,56.68
+LN01049,Personal Loan,Mysuru,Medium,12-05-2025 15:00,17:06.7,Withdrawn,1052099,3.91,1,89.29
+LN01050,Personal Loan,Electronic City,Medium,30-03-2025 10:00,44:00.5,Disbursed,343465,4.13,2,62.73
+LN01051,Personal Loan,Whitefield,High,25-08-2025 13:00,22:14.0,Disbursed,1892482,5.74,2,121.37
+LN01052,Personal Loan,Whitefield,Medium,11-02-2025 14:00,30:21.2,Disbursed,923561,4.29,2,75.51
+LN01053,Vehicle Loan,Mysuru,High,30-03-2025 12:00,13:15.7,Withdrawn,1841494,8.41,4,165.22
+LN01054,Personal Loan,Whitefield,Low,23-10-2025 16:00,35:39.5,Disbursed,1190367,2.47,0,59.59
+LN01055,Personal Loan,Whitefield,High,24-11-2025 11:00,14:17.0,Disbursed,1909257,4.68,0,89.24
+LN01056,Personal Loan,Bengaluru Central,High,22-10-2025 15:00,14:08.1,Disbursed,179717,7.26,3,95.24
+LN01057,Business Loan,Whitefield,Medium,14-04-2025 15:00,24:57.4,Rejected,573808,4.17,1,98.42
+LN01058,Personal Loan,Hubballi,Medium,14-01-2025 10:00,40:53.2,Disbursed,2471526,4.61,2,97.68
+LN01059,Home Loan,Mysuru,Low,15-10-2025 08:00,16:12.0,Disbursed,1302320,2.22,0,58.27
+LN01060,Personal Loan,Bengaluru Central,Medium,28-06-2025 16:00,19:34.3,Disbursed,1141092,3.11,0,74.33
+LN01061,Vehicle Loan,Hubballi,High,05-05-2025 12:00,26:38.0,Disbursed,310507,5.55,1,189.44
+LN01062,Personal Loan,Bengaluru Central,Low,19-12-2025 08:00,37:53.8,Disbursed,979984,2.68,0,47.63
+LN01063,Home Loan,Hubballi,High,23-01-2025 14:00,09:09.5,Disbursed,2456277,5.72,2,166.15
+LN01064,Home Loan,Electronic City,Low,04-03-2025 16:00,38:56.7,Disbursed,2308797,2.03,0,57.65
+LN01065,Personal Loan,Electronic City,Low,23-05-2025 13:00,41:19.2,Disbursed,1036155,3.03,2,41.69
+LN01066,Personal Loan,Bengaluru Central,High,02-06-2025 09:00,51:38.7,Disbursed,1841624,6.54,2,129.86
+LN01067,Vehicle Loan,Electronic City,High,25-05-2025 09:00,02:23.5,Disbursed,2351355,6.98,4,163.04
+LN01068,Personal Loan,Hubballi,Medium,13-08-2025 12:00,12:43.8,Disbursed,1247485,3.88,1,89.21
+LN01069,Personal Loan,Hubballi,Medium,05-11-2025 15:00,42:08.2,Disbursed,713414,3.76,1,49.7
+LN01070,Personal Loan,Electronic City,Low,14-04-2025 13:00,46:22.6,Rejected,255974,2.58,0,41.77
+LN01071,Personal Loan,Whitefield,Low,14-04-2025 14:00,09:00.3,Disbursed,1760727,2.65,1,92.15
+LN01072,Business Loan,Hubballi,Low,08-02-2025 16:00,21:52.4,Disbursed,346687,2.36,0,121.36
+LN01073,Business Loan,Mysuru,Low,17-07-2025 09:00,06:46.0,Disbursed,650328,3.12,2,146.11
+LN01074,Home Loan,Electronic City,Low,14-05-2025 11:00,08:34.6,Disbursed,2014848,2.14,0,60.14
+LN01075,Vehicle Loan,Whitefield,Low,08-03-2025 14:00,10:57.7,Disbursed,562627,2.55,0,78.18
+LN01076,Business Loan,Hubballi,High,28-06-2025 13:00,40:22.3,Disbursed,2398977,7.26,1,247.67
+LN01077,Vehicle Loan,Mysuru,Low,11-02-2025 10:00,15:42.4,Rejected,1303621,3.07,1,78.26
+LN01078,Personal Loan,Electronic City,Low,15-01-2025 15:00,46:45.3,Disbursed,602570,3.67,1,67.78
+LN01079,Home Loan,Whitefield,Medium,21-04-2025 14:00,06:01.5,Disbursed,195423,4.18,1,119.1
+LN01080,Personal Loan,Hubballi,Medium,06-06-2025 10:00,38:17.2,Disbursed,834763,4.09,1,52.64
+LN01081,Vehicle Loan,Hubballi,Low,16-10-2025 11:00,06:15.7,Disbursed,1290603,3.74,2,90.1
+LN01082,Business Loan,Bengaluru Central,Low,19-08-2025 12:00,13:24.4,Disbursed,692098,2.05,0,102.22
+LN01083,Personal Loan,Bengaluru Central,Medium,06-06-2025 14:00,15:40.5,Rejected,1029020,4.4,1,73.26
+LN01084,Personal Loan,Whitefield,High,07-02-2025 09:00,10:55.0,Disbursed,1512455,6.24,3,93.18
+LN01085,Vehicle Loan,Hubballi,High,07-04-2025 09:00,36:00.7,Rejected,1084444,7.49,2,132.6
+LN01086,Vehicle Loan,Mysuru,High,16-10-2025 16:00,02:54.2,Disbursed,1525048,6.07,1,111.05
+LN01087,Vehicle Loan,Mysuru,Low,11-09-2025 13:00,00:18.4,Disbursed,451424,3.01,1,59.01
+LN01088,Vehicle Loan,Electronic City,Medium,15-07-2025 14:00,17:12.6,Disbursed,1396463,3.17,0,79.29
+LN01089,Personal Loan,Electronic City,Low,27-03-2025 09:00,31:11.4,Withdrawn,121188,2.8,0,92.52
+LN01090,Business Loan,Electronic City,High,18-11-2025 16:00,05:09.5,Disbursed,2046191,7.51,4,389.09
+LN01091,Business Loan,Bengaluru Central,Low,10-01-2025 13:00,56:47.5,Withdrawn,394821,2,0,65.95
+LN01092,Vehicle Loan,Hubballi,Low,05-01-2025 11:00,08:44.6,Disbursed,1153793,2.12,0,100.15
+LN01093,Personal Loan,Electronic City,Medium,03-05-2025 12:00,11:42.9,Disbursed,850459,5.93,4,112.2
+LN01094,Vehicle Loan,Whitefield,Medium,26-11-2025 11:00,29:28.0,Disbursed,684514,4.1,0,68.49
+LN01095,Home Loan,Hubballi,Low,19-12-2025 12:00,55:30.5,Rejected,2287380,2.98,1,74.93
+LN01096,Home Loan,Electronic City,Low,28-04-2025 16:00,35:24.4,Disbursed,433904,3.26,0,102.59
+LN01097,Vehicle Loan,Mysuru,Low,21-10-2025 12:00,05:20.6,Rejected,1077669,3.8,3,78.09
+LN01098,Home Loan,Bengaluru Central,Low,08-06-2025 16:00,10:10.0,Disbursed,535791,2.1,0,78.17
+LN01099,Vehicle Loan,Bengaluru Central,Low,30-10-2025 13:00,20:11.3,Disbursed,2222450,3.02,0,56.34
+LN01100,Home Loan,Mysuru,Medium,16-08-2025 09:00,51:50.4,Rejected,721899,3.85,1,109.86
+LN01101,Vehicle Loan,Whitefield,High,31-12-2025 08:00,57:40.3,Disbursed,988911,3.61,0,73.96
+LN01102,Vehicle Loan,Mysuru,Medium,04-08-2025 10:00,40:32.1,Disbursed,1156013,3.72,0,88.68
+LN01103,Personal Loan,Electronic City,Medium,03-07-2025 08:00,07:29.0,Disbursed,219335,2.9,1,88.12
+LN01104,Vehicle Loan,Hubballi,High,15-01-2025 15:00,00:24.5,Disbursed,1639493,6.71,3,132.01
+LN01105,Personal Loan,Electronic City,Low,06-06-2025 15:00,12:39.5,Disbursed,412563,3.12,2,73.21
+LN01106,Home Loan,Electronic City,Low,16-05-2025 09:00,46:40.9,Disbursed,1142250,2.89,1,116.78
+LN01107,Personal Loan,Electronic City,High,18-09-2025 09:00,40:25.1,Disbursed,990193,6.22,2,105.67
+LN01108,Personal Loan,Electronic City,Low,06-06-2025 13:00,52:32.1,Rejected,1042781,3.08,1,100.88
+LN01109,Personal Loan,Mysuru,Medium,16-02-2025 13:00,42:41.3,Disbursed,1528440,3.63,2,111.71
+LN01110,Personal Loan,Hubballi,Medium,20-11-2025 11:00,45:49.0,Disbursed,1995437,4.01,1,56.76
+LN01111,Home Loan,Electronic City,Low,28-11-2025 15:00,08:16.6,Disbursed,1008692,2.45,0,106.14
+LN01112,Personal Loan,Hubballi,Medium,22-06-2025 14:00,12:48.4,Disbursed,1466493,3.17,2,77.21
+LN01113,Home Loan,Electronic City,Low,10-05-2025 08:00,47:47.7,Disbursed,575114,2.92,0,31.8
+LN01114,Personal Loan,Whitefield,Medium,05-04-2025 13:00,32:32.3,Disbursed,1330489,2.98,0,22.54
+LN01115,Home Loan,Whitefield,Low,25-04-2025 13:00,19:48.9,Disbursed,1731361,2.58,0,88.33
+LN01116,Business Loan,Whitefield,Low,31-08-2025 11:00,19:04.7,Disbursed,1637800,3.16,1,81.32
+LN01117,Home Loan,Bengaluru Central,Medium,19-10-2025 08:00,30:01.0,Disbursed,1664815,4.03,1,108.5
+LN01118,Personal Loan,Hubballi,Medium,09-10-2025 11:00,50:39.5,Disbursed,130952,3.7,0,103.84
+LN01119,Vehicle Loan,Mysuru,Low,26-10-2025 16:00,39:04.6,Disbursed,2028518,2.63,1,61.65
+LN01120,Business Loan,Bengaluru Central,Medium,10-10-2025 16:00,16:40.2,Disbursed,1668543,3.84,1,118.28
+LN01121,Personal Loan,Hubballi,Low,10-03-2025 12:00,40:37.1,Disbursed,1875940,3.24,1,77.68
+LN01122,Personal Loan,Hubballi,Low,28-05-2025 14:00,21:55.9,Disbursed,1887569,2.88,0,48.37
+LN01123,Personal Loan,Hubballi,Medium,11-01-2025 16:00,31:00.2,Disbursed,2152667,5.52,2,146.52
+LN01124,Home Loan,Electronic City,Low,11-09-2025 11:00,58:44.8,Disbursed,102925,2.21,0,106.98
+LN01125,Personal Loan,Whitefield,Medium,26-11-2025 11:00,23:41.2,Disbursed,1459892,3.22,0,57.39
+LN01126,Personal Loan,Electronic City,Low,26-12-2025 13:00,39:59.2,Disbursed,917516,2.81,1,105.67
+LN01127,Business Loan,Whitefield,High,07-02-2025 08:00,56:41.5,Disbursed,1539138,6.5,2,242.94
+LN01128,Personal Loan,Bengaluru Central,Low,14-05-2025 13:00,11:49.6,Withdrawn,2022812,3.29,1,117.2
+LN01129,Personal Loan,Bengaluru Central,Medium,19-07-2025 13:00,36:49.9,Disbursed,1167221,5.03,3,105.61
+LN01130,Home Loan,Mysuru,Medium,23-01-2025 16:00,35:59.5,Disbursed,1686648,4.11,1,138.6
+LN01131,Personal Loan,Hubballi,Medium,30-10-2025 13:00,22:14.7,Disbursed,1931383,4.3,2,93.37
+LN01132,Home Loan,Electronic City,Low,12-12-2025 12:00,36:20.7,Rejected,2472835,2.88,1,115.61
+LN01133,Personal Loan,Electronic City,Medium,29-10-2025 10:00,46:18.3,Disbursed,561768,3.25,0,113.77
+LN01134,Personal Loan,Mysuru,Medium,29-12-2025 10:00,28:20.6,Disbursed,415652,5.04,3,84.47
+LN01135,Personal Loan,Whitefield,High,06-08-2025 15:00,07:25.8,Disbursed,327182,4.83,0,79.12
+LN01136,Personal Loan,Mysuru,Medium,21-05-2025 12:00,04:57.9,Disbursed,1749221,4.57,2,54.08
+LN01137,Home Loan,Hubballi,Medium,14-04-2025 12:00,56:41.2,Disbursed,241035,5.28,3,113.94
+LN01138,Personal Loan,Bengaluru Central,Medium,29-07-2025 12:00,36:04.3,Disbursed,2010070,3.88,2,109.6
+LN01139,Home Loan,Mysuru,Medium,21-04-2025 08:00,48:54.1,Disbursed,2219687,3.09,0,158.82
+LN01140,Personal Loan,Bengaluru Central,Low,14-04-2025 15:00,39:52.5,Disbursed,1259235,3.13,0,67.66
+LN01141,Personal Loan,Whitefield,Medium,12-11-2025 09:00,55:47.7,Disbursed,1265683,4.51,1,105.93
+LN01142,Personal Loan,Whitefield,High,20-06-2025 10:00,32:15.0,Disbursed,435633,5.85,1,200.54
+LN01143,Personal Loan,Whitefield,Low,22-12-2025 08:00,12:44.7,Withdrawn,1672890,2.83,1,95.21
+LN01144,Personal Loan,Whitefield,High,20-11-2025 11:00,38:51.2,Rejected,603101,6.63,3,138.65
+LN01145,Personal Loan,Electronic City,Low,13-05-2025 16:00,49:08.4,Rejected,1507264,2.94,0,88.82
+LN01146,Personal Loan,Whitefield,Medium,20-10-2025 08:00,40:39.4,Disbursed,2155208,4.74,3,114.68
+LN01147,Personal Loan,Whitefield,Medium,24-11-2025 08:00,47:14.4,Disbursed,643816,3.65,2,108.79
+LN01148,Personal Loan,Electronic City,Medium,07-05-2025 10:00,33:02.6,Disbursed,401387,3.56,0,120.55
+LN01149,Personal Loan,Bengaluru Central,Low,16-04-2025 13:00,42:16.1,Disbursed,1682843,2.18,0,67.7
+LN01150,Vehicle Loan,Electronic City,Medium,02-04-2025 11:00,31:53.8,Rejected,989798,4.49,1,92.53
+LN01151,Personal Loan,Mysuru,Low,14-10-2025 11:00,19:26.4,Disbursed,1936250,2.86,0,51.32
+LN01152,Personal Loan,Bengaluru Central,Medium,20-02-2025 16:00,00:44.6,Disbursed,2490496,4.17,1,96.01
+LN01153,Personal Loan,Electronic City,Medium,29-01-2025 08:00,55:03.8,Disbursed,487229,3.36,1,49.92
+LN01154,Home Loan,Bengaluru Central,Medium,23-10-2025 08:00,23:11.6,Rejected,1655633,4.12,1,123.39
+LN01155,Personal Loan,Electronic City,High,24-10-2025 12:00,38:41.7,Disbursed,486546,5.03,3,102.64
+LN01156,Personal Loan,Mysuru,Low,02-08-2025 09:00,08:48.0,Rejected,1689592,2.87,0,70.15
+LN01157,Personal Loan,Bengaluru Central,Low,24-09-2025 11:00,53:54.6,Disbursed,1609339,2.3,0,57.9
+LN01158,Personal Loan,Hubballi,Medium,14-09-2025 16:00,08:34.8,Disbursed,217206,4.4,2,73.14
+LN01159,Personal Loan,Bengaluru Central,High,29-10-2025 10:00,41:00.5,Disbursed,310961,6.78,3,155.68
+LN01160,Home Loan,Whitefield,Medium,11-04-2025 10:00,32:13.4,Withdrawn,1656170,3.75,0,113.54
+LN01161,Home Loan,Whitefield,High,12-12-2025 11:00,43:53.7,Rejected,1325581,5.03,2,173.73
+LN01162,Business Loan,Electronic City,Low,20-04-2025 10:00,22:29.9,Disbursed,504502,2.11,0,104.37
+LN01163,Vehicle Loan,Whitefield,High,01-07-2025 09:00,33:49.8,Rejected,597299,6.66,4,143.56
+LN01164,Vehicle Loan,Electronic City,Low,09-11-2025 16:00,31:53.3,Disbursed,1007779,2.92,2,135.53
+LN01165,Personal Loan,Electronic City,Medium,01-01-2025 16:00,57:49.4,Disbursed,1084243,3.86,0,66.96
+LN01166,Personal Loan,Bengaluru Central,Low,15-11-2025 14:00,45:59.1,Disbursed,383468,2.51,0,52.77
+LN01167,Personal Loan,Whitefield,High,24-02-2025 13:00,00:15.3,Rejected,297588,6.48,1,144
+LN01168,Vehicle Loan,Hubballi,Low,29-05-2025 16:00,22:58.0,Disbursed,2093014,3.39,2,92.38
+LN01169,Personal Loan,Whitefield,High,05-11-2025 08:00,05:15.7,Rejected,2277249,6.41,3,83.09
+LN01170,Personal Loan,Mysuru,Low,17-05-2025 10:00,43:31.2,Disbursed,1256177,3.23,1,85.73
+LN01171,Home Loan,Mysuru,Low,21-07-2025 15:00,43:19.9,Disbursed,2229748,2.87,2,110.72
+LN01172,Personal Loan,Bengaluru Central,High,09-11-2025 08:00,20:22.4,Disbursed,1285283,6.84,2,149.34
+LN01173,Vehicle Loan,Electronic City,Low,27-04-2025 15:00,51:30.2,Disbursed,1551630,2.75,0,70.86
+LN01174,Personal Loan,Bengaluru Central,Medium,03-06-2025 16:00,05:27.5,Disbursed,1984022,4.49,2,174.09
+LN01175,Business Loan,Whitefield,Low,18-10-2025 08:00,38:10.6,Disbursed,139064,2.6,0,56.64
+LN01176,Home Loan,Hubballi,Medium,04-03-2025 11:00,42:20.2,Disbursed,2461251,3.12,0,79.71
+LN01177,Home Loan,Electronic City,High,01-09-2025 08:00,22:29.4,Disbursed,2325661,7.1,2,148.37
+LN01178,Personal Loan,Hubballi,Medium,25-01-2025 12:00,51:33.6,Disbursed,2288970,4.05,2,109.86
+LN01179,Home Loan,Whitefield,Medium,31-03-2025 13:00,49:46.9,Disbursed,475014,4.33,2,112.83
+LN01180,Home Loan,Mysuru,Low,16-03-2025 15:00,07:46.2,Disbursed,1266067,2.74,1,97.13
+LN01181,Business Loan,Whitefield,Medium,21-10-2025 15:00,09:19.1,Disbursed,1439522,4.11,1,75.16
+LN01182,Business Loan,Whitefield,Medium,29-07-2025 12:00,26:33.2,Withdrawn,1033268,4.37,1,128.44
+LN01183,Personal Loan,Electronic City,Low,13-12-2025 11:00,21:51.6,Withdrawn,1676303,3.67,3,71.36
+LN01184,Personal Loan,Bengaluru Central,Low,17-01-2025 14:00,22:14.7,Withdrawn,1767167,2.58,0,56.37
+LN01185,Home Loan,Whitefield,High,08-05-2025 15:00,19:27.7,Disbursed,2134513,6.99,3,149.32
+LN01186,Vehicle Loan,Hubballi,Medium,30-12-2025 14:00,56:02.2,Disbursed,1125007,3.59,0,96.93
+LN01187,Vehicle Loan,Whitefield,Medium,08-09-2025 16:00,50:45.5,Disbursed,1863652,4.4,2,74.85
+LN01188,Personal Loan,Electronic City,Low,28-06-2025 10:00,45:46.6,Disbursed,1194624,2.42,0,88.76
+LN01189,Business Loan,Mysuru,Medium,01-07-2025 15:00,16:06.4,Disbursed,2429987,2.86,0,79.27
+LN01190,Business Loan,Whitefield,Medium,01-06-2025 10:00,00:05.6,Disbursed,465561,3.25,0,68
+LN01191,Vehicle Loan,Bengaluru Central,High,25-01-2025 15:00,01:13.8,Disbursed,1945738,7.03,2,123.02
+LN01192,Personal Loan,Electronic City,Low,29-06-2025 12:00,02:14.9,Disbursed,237257,2.28,0,50.04
+LN01193,Home Loan,Bengaluru Central,Medium,17-07-2025 15:00,28:30.1,Disbursed,917537,3.84,2,138.48
+LN01194,Business Loan,Hubballi,High,10-12-2025 13:00,34:37.2,Rejected,1387150,5.23,2,126.58
+LN01195,Personal Loan,Mysuru,Low,10-06-2025 14:00,58:08.6,Disbursed,1497484,2.42,1,51.97
+LN01196,Personal Loan,Whitefield,Low,26-06-2025 15:00,31:40.4,Disbursed,1328340,3.22,1,69.53
+LN01197,Business Loan,Bengaluru Central,Low,12-10-2025 16:00,58:20.9,Disbursed,1586029,2.11,0,89.97
+LN01198,Business Loan,Hubballi,Medium,04-03-2025 13:00,07:59.2,Rejected,1910402,3.95,1,124.13
+LN01199,Personal Loan,Bengaluru Central,Low,30-05-2025 16:00,59:29.8,Rejected,1614618,2.96,0,80.99
+LN01200,Vehicle Loan,Hubballi,High,03-06-2025 13:00,25:04.0,Disbursed,220614,8.2,4,216.42
